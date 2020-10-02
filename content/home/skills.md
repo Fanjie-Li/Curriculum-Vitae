@@ -49,6 +49,12 @@ subtitle = ""
   description = "Intermediate"
 
 [[feature]]
+  icon = "music"
+  icon_pack = "fas"
+  name = "Music Computing"
+  description = "Intermediate"
+
+[[feature]]
   icon = "swift"
   icon_pack = "fab"
   name = "Swift"
@@ -59,6 +65,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "iOS App Dev"
   description = "Intermediate"
+
+[[feature]]
+  icon = "pencil-ruler"
+  icon_pack = "fas"
+  name = "UI/UX Design"
+  description = "Advanced"
 
 [[feature]]
   icon = "html5"
@@ -77,18 +89,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "JavaScript"
   description = "Novice"
-
-[[feature]]
-  icon = "pencil-ruler"
-  icon_pack = "fas"
-  name = "UI/UX Design"
-  description = "Advanced"
-
-[[feature]]
-  icon = "music"
-  icon_pack = "fas"
-  name = "Music Computing"
-  description = "Intermediate"
 
 # Uncomment to use emoji icons.
 # [[feature]]
