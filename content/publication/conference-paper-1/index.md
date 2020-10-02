@@ -32,7 +32,7 @@ featured: true
 
 links:
 - name: Slide
-  url: content/publication/slide.pdf
+  url: /content/publication/slide.pdf
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3375462.3375529?casa_token=x8k_YuvsAqsAAAAA:fD7ULf_AkrzV-u77siACYQ_K_ZQjjB9y4nkmwlyEtQtgC6F99Teqrgg_p5Oye5RnjWrQzYUhwGEp
 # url_code: '#'
 # url_dataset: '#'
