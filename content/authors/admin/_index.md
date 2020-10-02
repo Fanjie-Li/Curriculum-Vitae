@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: MSc(LIM) - Data Science (Specialist Strand)
+  - course: M.Sc.LIM (Data Science)
     institution: The University of Hong Kong
     year: 2020
   - course: B.Eng. Software Engineering
