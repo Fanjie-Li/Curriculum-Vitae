@@ -29,9 +29,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-07"
   date_end = ""
   description = """
-  &nbsp;
-  - Department: Faculty of Education
-  - Affiliation: CCMIR Lab (Director: Dr. Xiao Hu)
+  Affiliation: CCMIR Lab (Director: Dr. Xiao Hu), Faculty of Education
   """
 
 [[experience]]
