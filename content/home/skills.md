@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 95  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -28,7 +28,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Novice"
+  description = "Intermediate"
   
 [[feature]]
   icon = "database"
@@ -57,7 +57,7 @@ subtitle = ""
 [[feature]]
   icon = "app-store-ios"
   icon_pack = "fab"
-  name = "iOS App Development"
+  name = "iOS App Dev"
   description = "Intermediate"
 
 [[feature]]
@@ -77,11 +77,17 @@ subtitle = ""
   icon_pack = "fab"
   name = "JavaScript"
   description = "Novice"
-  
+
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "UI/UX Design"
+  description = "Advanced"
+
+[[feature]]
+  icon = "music"
+  icon_pack = "fas"
+  name = "Music Computing"
   description = "Intermediate"
 
 # Uncomment to use emoji icons.
