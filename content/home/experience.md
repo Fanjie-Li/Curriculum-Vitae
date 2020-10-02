@@ -10,7 +10,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "20px", "0"]
+  padding = ["40px", "0", "20px", "0"]
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   date_start = "2020-09-07"
   date_end = ""
   description = """
-  Department: Faculty of Education
-  Affiliation: CCMIR Lab (Director: Dr. Xiao Hu)
+  - Department: Faculty of Education
+  - Affiliation: CCMIR Lab (Director: Dr. Xiao Hu)
   """
 
 [[experience]]
@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-05-01"
   date_end = "2020-06-01"
-  description = """The 21st International Society for Music Information Retrieval Conference (ISMIR '20)"""
+  description = """The 21st International Society for Music Information Retrieval Conference (ISMIR 2020)"""
 
 +++
