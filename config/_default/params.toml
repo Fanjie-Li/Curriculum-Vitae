@@ -93,7 +93,7 @@ phone = "(+852)5441-3694"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Runme Shaw Building", city = "The University of Hong Kong", region = "Pokfulam Road", postcode = "", country = "Hong Kong SAR", country_code = ""}
+address = {street = "The University of Hong Kong", city = "Pokfulam Road", region = "Hong Kong SAR", postcode = "", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
