@@ -8,6 +8,10 @@ weight = 30  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
@@ -15,22 +19,70 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Advanced"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Novice"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "Advanced"
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Intermediate"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Intermediate"
+
+[[feature]]
+  icon = "swift"
+  icon_pack = "fab"
+  name = "Swift"
+  description = "Advanced"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "app-store-ios"
+  icon_pack = "fab"
+  name = "iOS App Development"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "css3-alt"
+  icon_pack = "fab"
+  name = "CSS"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "Novice"
+  
+[[feature]]
+  icon = "pencil-ruler"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "UI/UX Design"
+  description = "Intermediate"
 
 # Uncomment to use emoji icons.
 # [[feature]]
