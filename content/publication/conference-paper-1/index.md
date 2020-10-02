@@ -32,7 +32,7 @@ featured: true
 
 links:
 - name: Slide
-  url: /slide.pdf
+  url: ./slide.pdf
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3375462.3375529?casa_token=x8k_YuvsAqsAAAAA:fD7ULf_AkrzV-u77siACYQ_K_ZQjjB9y4nkmwlyEtQtgC6F99Teqrgg_p5Oye5RnjWrQzYUhwGEp
 # url_code: '#'
 # url_dataset: '#'
@@ -65,13 +65,13 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
