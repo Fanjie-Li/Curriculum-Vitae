@@ -32,13 +32,13 @@ featured: true
 
 links:
 - name: Slide
-  url: slide.pdf
+  url: /slide.pdf
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3375462.3375529?casa_token=x8k_YuvsAqsAAAAA:fD7ULf_AkrzV-u77siACYQ_K_ZQjjB9y4nkmwlyEtQtgC6F99Teqrgg_p5Oye5RnjWrQzYUhwGEp
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: 'poster.pdf'
 # url_project: ''
-url_slides: 'slide.pdf'
+url_slides: ''
 # url_source: '#'
 # url_video: '#'
 
