@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the 10th International Conference on Learning Analytics & Knowledge*
 publication_short: In *LAK 2020*
 
-abstract: 
+abstract: Empirical evidence of how background music benefits or hinders learning becomes the crux of optimizing music recommendation in educational setings. This study aims to further probe the underlying mechanism through an experiment in naturalistic seting. 30 participants were recruited to join a field experiment which was conducted in their own study places for one week. During the experiment, participants were asked to conduct learning sessions with music in the background and collect music tracks they deemed suitable for learning using a novel mobilebased music discovery application. A set of participant-related, context-related, and music-related data were collected via a preexperiment questionnaire, surveys popped up in the music app, and the logging system of the music app. Preliminary results reveal correlations between certain music characteristics and learners’ task engagement and perceived task performance. This study is expected to provide evidence for understanding cognitive and emotional dimensions of background music during learning, as well as implications for the role of personalization in the selection of background music for facilitating learning.
 
 # Summary. An optional shortened abstract.
 summary: In Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK 2020).
