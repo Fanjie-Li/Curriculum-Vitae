@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the 10th International Conference on Learning Analytics & Knowledge*
 publication_short: In *LAK 2020*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,16 +31,16 @@ tags:
 featured: true
 
 links:
-- name: ACM Digital Library
-  url: https://dl.acm.org/doi/abs/10.1145/3375462.3375529
+# - name: ACM Digital Library
+#   url: https://dl.acm.org/doi/abs/10.1145/3375462.3375529
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3375462.3375529?casa_token=x8k_YuvsAqsAAAAA:fD7ULf_AkrzV-u77siACYQ_K_ZQjjB9y4nkmwlyEtQtgC6F99Teqrgg_p5Oye5RnjWrQzYUhwGEp
-url_code: '#'
-url_dataset: '#'
-url_poster: 'poster.pdf'
-url_project: ''
-url_slides: 'slides.pdf'
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: 'poster.pdf'
+# url_project: ''
+url_slides: 'slide.pdf'
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
