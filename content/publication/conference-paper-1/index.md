@@ -23,7 +23,7 @@ publication_short: In *LAK 2020*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK 2020).
 
 tags:
 - Music
@@ -31,8 +31,8 @@ tags:
 featured: true
 
 links:
-# - name: ACM Digital Library
-#   url: https://dl.acm.org/doi/abs/10.1145/3375462.3375529
+# - name: Slide
+#   url: slide.pdf
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3375462.3375529?casa_token=x8k_YuvsAqsAAAAA:fD7ULf_AkrzV-u77siACYQ_K_ZQjjB9y4nkmwlyEtQtgC6F99Teqrgg_p5Oye5RnjWrQzYUhwGEp
 # url_code: '#'
 # url_dataset: '#'
