@@ -27,7 +27,10 @@ summary: In Proceedings of the 10th International Conference on Learning Analyti
 
 tags:
 - Background music
-- Learning
+- Learning engagement
+- Learning performance
+- Naturalistic setting
+- Music information retrieval
 featured: true
 
 links:
