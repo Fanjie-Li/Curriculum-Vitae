@@ -55,6 +55,12 @@ subtitle = ""
   description = "Intermediate"
 
 [[feature]]
+  icon = "pencil-ruler"
+  icon_pack = "fas"
+  name = "UI/UX Design"
+  description = "Advanced"
+
+[[feature]]
   icon = "swift"
   icon_pack = "fab"
   name = "Swift"
@@ -65,12 +71,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "iOS App Dev"
   description = "Intermediate"
-
-[[feature]]
-  icon = "pencil-ruler"
-  icon_pack = "fas"
-  name = "UI/UX Design"
-  description = "Advanced"
 
 [[feature]]
   icon = "html5"
