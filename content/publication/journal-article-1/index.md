@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: In *Journal of the National Library of China*
 publication_short: In *国家图书馆学刊*
 
-abstract: Deep reading is a hot concept of much debates. This study aims to discuss the major controversies in the conceptualization of deep reading based on a systematic literature review and K-Means clustering of the expert survey responses so as to provide implications for the strategy design and outcome assessment of reading promotion program. This paper argues that the essential confliction of opinions lies in researchers' contrasting views on the mechanism and values of deep reading. Based on these discussions，this paper defines that deep reading is an intersubjective dialogue that is characterized by the deep engagement of readers. Such deep reading engagement satisfies the spiritual as well as social needs of readers and therefore motivate them to read.
+abstract: Deep reading is a hot concept of much debates. This study aims to discuss the major controversies in the conceptualization of deep reading based on a systematic literature review and K-Means clustering of the expert survey responses so as to provide implications for the strategy design and outcome assessment of reading promotion programs. This paper argues that the essential confliction of opinions lies in researchers' contrasting views on the mechanism and values of deep reading. Based on these discussions，this paper defines that deep reading is an intersubjective dialogue that is characterized by the deep engagement of readers. Such deep reading engagement satisfies the spiritual as well as social needs of readers and therefore motivate them to read.
 
 # Summary. An optional shortened abstract.
 summary: In Journal of the National Library of China.
