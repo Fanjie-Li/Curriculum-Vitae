@@ -20,19 +20,15 @@ image:
   caption: Conceptual framework
   focal_point: Smart
 
-# links:
-# - icon: twitter
-#  icon_pack: fab
-# - name: Thesis
-#  url: media/Master-Thesis/LI,Fanjie-MLIM-Dissertation.pdf
-# - name: Brochure
-#  url: media/Master-Thesis/cheatsheet.pdf
-# - name: N-Back Test Demo
-#  url: https://www.youtube.com/watch?v=4Cn03gJ0nNA
-# url_code: ""
-# url_pdf: ""
-# url_slides: ""
-# url_video: ""
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
