@@ -74,6 +74,9 @@ A one-week field experiment was conducted in participants’ own study places. D
 - Implemented the Multitasking test using PsychoPy based on specifications in literature, and refined an existing Python-based N-Back Test for assessing participants’ working memory capacity.
 - Conceived the conceptual framework. Performed data cleansing and analysis using Python and R.
 
+**Working Papers:**
+- Optimizing Background Music for Learning: The Role of Music Characteristics, Task Load, and Learners’ Cognitive Capacity
+- Profiling the Music Preference of Learners: A Field Study.
 
 **Gallery:**
 
