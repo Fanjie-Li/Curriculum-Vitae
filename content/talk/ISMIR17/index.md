@@ -1,30 +1,30 @@
 ---
-title: A Field Experiment on Music Preference during Learning
-event: CITE Research Symposium 2019 (CITERS 2019)
-event_url: https://citers2019.cite.hku.hk/
+title: Emotion-Aware Music Information Retrieval Based on Physiological Signals and User Profile
+event: The 18th International Society for Music Information Retrieval Conference (ISMIR 2017)
+event_url: https://ismir2017.ismir.net/
 
-location: MPA, Main Library, The University of Hong Kong
+location: National University of Singapore Research Institute (NUSRI)
 address:
-  street: Pokfulam Road
-  city: Central and Western District
-  region: Hong Kong SAR
-  postcode: ''
-  country: 
+  street: 
+  city: Suzhou
+  region: Jiangsu
+  postcode: '215123'
+  country: China
 
-summary: This talk presents Fanjie's thesis project proposal. 【 **Note** 】This presentation described the preliminary study design. The study design has been  refined in the final dissertation project.
+summary: In ISMIR 2017 Late Breaking / Demos Poster Session
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-31T12:20:00Z"
-date_end: "2019-05-31T12:40:00Z"
+date: "2017-10-27T12:40:00Z"
+date_end: "2017-10-27T15:20:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin, Xiao Hu]
-tags: [Background music, Learning environment, Naturalistic setting, Music information retrieval, Master thesis project]
+authors: [admin, Jeremy T.D. Ng, Xiao Hu]
+tags: [Music emotion recognition, Music-induced emotion, Physiological signals, User experiment]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -36,15 +36,15 @@ featured: false
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: Slide
-  url: media/CITERS19/slide.pdf
-- name: Event
-  url: https://citers2019.cite.hku.hk/
+- name: Poster
+  url: media/ISMIR17/poster.pdf
+- name: ISMIR 2017
+  url: https://ismir2017.ismir.net/
 - name: Schedule
-  url: https://citers2019.cite.hku.hk/program-overview/parallel-sessions/
+  url: https://ismir2017.ismir.net/index.html%3Fp=1102.html
 # url_code: ""
 # url_pdf: ""
-url_slides: "media/CITERS19/slide.pdf"
+url_slides: ""
 # url_video: ""
 
 # Markdown Slides (optional).
@@ -65,5 +65,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-<div style="padding:15px;">
-<iframe src="slide.pdf" width="100%" height="450", style="border:1px solid black; margin-bottom: 50px;">
+<iframe src="poster.pdf" width="100%" height="700", style="border:1px solid black; margin-bottom: 50px;">
