@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: 
 
-summary: 
+summary: This talk presents the research proposal for Fanjie's Master thesis project.
 abstract: ""
 
 # Talk start and end times.
@@ -37,7 +37,11 @@ links:
 # - icon: twitter
 #  icon_pack: fab
 - name: Slide
-  url: https://twitter.com/georgecushen
+  url: media/CITERS19/slide.pdf
+- name: Event
+  url: https://citers2019.cite.hku.hk/
+- name: Schedule
+  url: https://citers2019.cite.hku.hk/program-overview/parallel-sessions/
 # url_code: ""
 # url_pdf: ""
 url_slides: "media/CITERS19/slide.pdf"
@@ -61,5 +65,8 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
-
+<object data="media/CITERS19/slide.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="media/CITERS19/slide.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
