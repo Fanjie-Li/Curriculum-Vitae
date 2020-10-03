@@ -59,7 +59,7 @@ gallery_item:
 ---
 
 {{% callout note %}}
-Priciple Investigator: Fanjie Li
+Principle Investigator: Fanjie Li
 {{% /callout %}}
 
 This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience in view of the potential moderating effect of learners’ traits and task load.
