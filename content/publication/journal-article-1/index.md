@@ -69,6 +69,6 @@ slides: example
 ---
 
 {{% callout note %}}
-The Journal of the National Library of China is a Chinese core journal (CSSCI-indexed, IF: 1.746) and a prominent pulication in China in the field of library and information science. 
-&nbsp;This paper is also reprinted by the Information Center for Social Science of RUC and currently has 12 citations (including journal articles and master thesis).
+The Journal of the National Library of China is a Chinese core journal (CSSCI-indexed, IF: 1.746) and a prominent pulication in China in the field of library and information science.\b
+This paper is also reprinted by the Information Center for Social Science of RUC and currently has 12 citations (including journal articles and master thesis).
 {{% /callout %}}
