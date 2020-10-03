@@ -26,7 +26,8 @@ summary: In Journal of the National Library of China.
 
 tags:
 - Deep reading
-- Controversies in theoretical conceptualization
+- Controversy
+- Theoretical conceptualization
 - Reading engagement
 - Reading experience
 - Reading promotion
