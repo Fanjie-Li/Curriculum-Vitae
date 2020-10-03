@@ -11,7 +11,8 @@ address:
   postcode: ''
   country: 
 
-summary: This talk presents Fanjie's Master thesis project proposal. *Note:* This talk present the preliminary study design. The study design has been further refined in the final dissertation project.
+summary: This talk presents Fanjie's Master thesis project proposal. 
+*Note: This talk present the preliminary study design. The study design has been further refined in the final dissertation project.* 
 abstract: ""
 
 # Talk start and end times.
@@ -29,9 +30,9 @@ tags: [Background music, Learning environment, Naturalistic setting, Music infor
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 links:
 # - icon: twitter
@@ -65,4 +66,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
+<iframe src="media/CITERS19/slide.pdf" width="500" height="700">
