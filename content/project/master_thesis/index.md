@@ -23,6 +23,10 @@ links:
 #  icon_pack: fab
 - name: Thesis
   url: media/master_thesis/thesis.pdf
+- name: Moody
+  url: media/master_thesis/cheatsheet.pdf
+- name: N-Back Test Demo
+  url: https://www.youtube.com/watch?v=4Cn03gJ0nNA
 url_code: ""
 url_pdf: ""
 url_slides: ""
