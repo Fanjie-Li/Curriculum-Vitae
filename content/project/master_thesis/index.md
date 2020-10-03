@@ -1,22 +1,28 @@
 ---
 title: A Field Experiment on Music Preference during Learning
-summary: This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learningexperience in view of the potential moderating effect of learners’ traits and task load.
+summary: This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience in view of the potential moderating effect of learners’ traits and task load.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Music
+- Learning
+- Learning experience
+- Flow
+- MIR system
+- User study
+- Naturalistic settings
+date: "2019-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Conceptual framework
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#  icon_pack: fab
+- name: Thesis
+  url: media/master_thesis/thesis.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
