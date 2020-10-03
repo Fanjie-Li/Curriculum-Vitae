@@ -65,4 +65,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-<iframe src="poster.pdf" width="100%" height="900", style="border:1px solid black; margin-bottom: 50px;">
+<iframe src="poster.pdf" width="100%" height="1000", style="border:1px solid black; margin-bottom: 50px;">
