@@ -43,31 +43,31 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 
- gallery_item:
- - album: master_thesis
-   image: ui_search.png
-   caption: Music Filtering
- - album: master_thesis
-   image: ui_playlist.png
-   caption: Favourite Music
- - album: master_thesis
-   image: ui_player.png
-   caption: Music Player
- - album: master_thesis
-   image: ui_survey.png
-   caption: Popup Survey
- - album: master_thesis
-   image: music_features.png
-   caption: Music Features
- - album: master_thesis
-   image: context.png
-   caption: Context-Related Data
- - album: master_thesis
-   image: genre_cloud.png
-   caption: Genre Cloud
- - album: master_thesis
-   image: mosaic_plots.png
-   caption: Mosaic Plot
+gallery_item:
+- album: master_thesis
+  image: ui_search.png
+  caption: Music Filtering
+- album: master_thesis
+  image: ui_playlist.png
+  caption: Favourite Music
+- album: master_thesis
+  image: ui_player.png
+  caption: Music Player
+- album: master_thesis
+  image: ui_survey.png
+  caption: Popup Survey
+- album: master_thesis
+  image: music_features.png
+  caption: Music Features
+- album: master_thesis
+  image: context.png
+  caption: Context-Related Data
+- album: master_thesis
+  image: genre_cloud.png
+  caption: Genre Cloud
+- album: master_thesis
+  image: mosaic_plots.png
+  caption: Mosaic Plot
 ---
 
 {{% callout note %}}
