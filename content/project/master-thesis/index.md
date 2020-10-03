@@ -1,26 +1,38 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: A Field Experiment on Music Preference during Learning
+summary: This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience in view of the potential moderating effect of learners’ traits and task load.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Music
+- Learning
+- Learning experience
+- Flow
+- Naturalistic setting
+- MIR system
+- User study
+- Sound and music computing
+- Human computer interaction
+date: "2019-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Conceptual framework
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# - icon: twitter
+#  icon_pack: fab
+  name: Thesis
+  url: media/Master-Thesis/LI,Fanjie-MLIM-Dissertation.pdf
+  name: Brochure
+  url: media/Master-Thesis/cheatsheet.pdf
+  name: N-Back Test Demo
+  url: https://www.youtube.com/watch?v=4Cn03gJ0nNA
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
