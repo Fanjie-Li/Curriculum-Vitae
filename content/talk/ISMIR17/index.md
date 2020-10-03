@@ -30,8 +30,8 @@ tags: [Background music, Learning environment, Naturalistic setting, Music infor
 featured: false
 
 # image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
 # - icon: twitter
@@ -65,8 +65,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-<object data="media/CITERS19/slide.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="media/CITERS19/slide.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
