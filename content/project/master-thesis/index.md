@@ -23,11 +23,11 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: Thesis
-  url: media/Master-Thesis/LI,Fanjie-MLIM-Dissertation.pdf
-- name: Brochure
-  url: media/Master-Thesis/cheatsheet.pdf
-- name: N-Back Test Demo
+# - name: Thesis
+#  url: media/Master-Thesis/LI,Fanjie-MLIM-Dissertation.pdf
+# - name: Brochure
+#  url: media/Master-Thesis/cheatsheet.pdf
+ - name: N-Back Test Demo
   url: https://www.youtube.com/watch?v=4Cn03gJ0nNA
 # url_code: ""
 # url_pdf: ""
