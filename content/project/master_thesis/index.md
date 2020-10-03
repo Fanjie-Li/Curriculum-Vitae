@@ -6,6 +6,7 @@ tags:
 - Learning
 - Learning experience
 - Flow
+- Engagement
 - MIR system
 - User study
 - Naturalistic settings
@@ -26,7 +27,9 @@ links:
 - name: Moody
   url: media/master_thesis/cheatsheet.pdf
 - name: N-Back Test Demo
-  url: https://www.youtube.com/watch?v=4Cn03gJ0nNA
+  url: https://youtu.be/4Cn03gJ0nNA
+- name: Multitasking Test Demo
+  url: https://youtu.be/PQu51J9s4ss
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -40,12 +43,18 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+{{% callout note %}}
+Priciple Investigator: Fanjie Li
+{{% /callout %}}
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience in view of the potential moderating effect of learners’ traits and task load.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+A one-week field experiment was conducted in participants’ own study places. During the experiment, participants were asked to conduct learning sessions with music in the background and collect the tracks they deemed suitable for learning using a novel mobile music app (i.e., Moody App). A set of participant-related, context-related, and music-related data were collected via a pre-experiment questionnaire, surveys popped up during the learning session, and the logging system of the music app.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+**Highlights:**
+- Designed and developed the Moody music App (iOS client with a Flask-based backend and the MySQL database) to facilitate longitudinal data collection in naturalistic settings;
+- Performed acoustic analysis on the 10k music pool and estimated music emotion in the arousal-valence space via Support Vector Machines (SVM);
+- Collected users’ motion data (e.g., sedentary state), heart rate, etc. using the Fitbit Versa smartwatch.
+- Implemented the Multitasking test using PsychoPy based on specifications in literature, and refined an existing Python-based N-Back Test for assessing participants’ working memory capacity.
+- Conceived the conceptual framework. Performed data cleansing and analysis using Python and R.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
