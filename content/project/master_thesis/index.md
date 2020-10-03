@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: A Field Experiment on Music Preference during Learning
+summary: This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learningexperience in view of the potential moderating effect of learners’ traits and task load.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
