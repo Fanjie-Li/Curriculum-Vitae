@@ -11,8 +11,7 @@ address:
   postcode: ''
   country: 
 
-summary: This talk presents Fanjie's Master thesis project proposal. 
-*Note: This talk present the preliminary study design. The study design has been further refined in the final dissertation project.* 
+summary: This talk presents Fanjie's Master thesis project proposal. \b*Note: This talk present the preliminary study design. The study design has been further refined in the final dissertation project.* 
 abstract: ""
 
 # Talk start and end times.
