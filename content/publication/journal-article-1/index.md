@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: In *Journal of the National Library of China*
 publication_short: In *国家图书馆学刊*
 
-abstract: Deep reading is a hot concept of much controversy. This study aims to discuss the major controversies in the conceptualization of deep reading based on a systematic literature review and K-Means clustering of the expert survey responses so as to provide implications for the strategy design and outcome assessment of reading promotion program. This paper argues that the essential confliction of opinions lies in researchers' contrasting views on the mechanism and values of deep reading. According to these discussions，this paper defines that deep reading is an intersubjective dialogue which is characterized by the deep engagement of readers. Such deep reading engagement satisfies the spiritual as well as social needs of readers and therefore motivate them to read.
+abstract: Deep reading is a hot concept of much debates. This study aims to discuss the major controversies in the conceptualization of deep reading based on a systematic literature review and K-Means clustering of the expert survey responses so as to provide implications for the strategy design and outcome assessment of reading promotion program. This paper argues that the essential confliction of opinions lies in researchers' contrasting views on the mechanism and values of deep reading. Based on these discussions，this paper defines that deep reading is an intersubjective dialogue that is characterized by the deep engagement of readers. Such deep reading engagement satisfies the spiritual as well as social needs of readers and therefore motivate them to read.
 
 # Summary. An optional shortened abstract.
 summary: In Journal of the National Library of China.
@@ -68,5 +68,6 @@ slides: example
 ---
 
 {{% callout note %}}
-The Journal of the National Library of China is a Chinese core journal (CSSCI-indexed, IF: 1.746) and a prominent pulication in China in the field of library and information science. This paper is also reprinted by the Information Center For Social Science Of RUC and currently has 12 citations (including journal articles and master thesis).
+The Journal of the National Library of China is a Chinese core journal (CSSCI-indexed, IF: 1.746) and a prominent pulication in China in the field of library and information science. 
+This paper is also reprinted by the Information Center for Social Science of RUC and currently has 12 citations (including journal articles and master thesis).
 {{% /callout %}}
