@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-- name: Source
+- name: ISMIR
   url: https://ismir.net/conferences/ismir2018.html
 url_pdf: media/ISMIR18/115_Paper.pdf
 # url_code: '#'
