@@ -38,7 +38,7 @@ links:
 #  icon_pack: fab
 - name: Slide
   url: media/CITERS19/slide.pdf
-- name: Event
+- name: CITERS 2019
   url: https://citers2019.cite.hku.hk/
 - name: Schedule
   url: https://citers2019.cite.hku.hk/program-overview/parallel-sessions/
