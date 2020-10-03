@@ -68,5 +68,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-![alt text](static/media/LAK19/LAK19-experiment-design.png)
+![alt text](static/media/)
+{{< figure library="true" src="LAK19/LAK19-experiment-design.png" title="Experiment Design" >}}
 
