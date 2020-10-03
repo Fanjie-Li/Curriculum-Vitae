@@ -66,5 +66,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-{{< figure library="true" src="LAK19/LAK19-experiment-design.png" title="" >}}
+
 
