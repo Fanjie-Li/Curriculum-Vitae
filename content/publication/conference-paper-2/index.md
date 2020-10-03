@@ -68,5 +68,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+![image info](media/LAK19/LAK19-experiment-design.png)
 
