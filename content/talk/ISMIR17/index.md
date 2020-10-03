@@ -3,7 +3,7 @@ title: A Field Experiment on Music Preference during Learning
 event: CITE Research Symposium 2019 (CITERS 2019)
 event_url: https://citers2019.cite.hku.hk/
 
-location: Main Library, The University of Hong Kong
+location: MPA (2/F), Main Library, The University of Hong Kong
 address:
   street: Pokfulam Road
   city: Central and Western District
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: 
 
-summary: This talk presents the research proposal for Fanjie's Master thesis project.
+summary: This talk presents Fanjie's Master thesis project proposal. *Note:* This talk present the preliminary study design. The study design has been further refined in the final dissertation project.
 abstract: ""
 
 # Talk start and end times.
