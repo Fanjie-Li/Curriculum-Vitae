@@ -1,9 +1,13 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: AI & LA Supported Self-Regulatory Approaches to Student Well-being During and After COVID19
+summary: This recent project aims to design and develop an AI and LA supported pedagogical approach to
+improve school students’ self-regulated learning and multi-faceted well-being.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Learning
+- Self-regulation
+- Learning analytics
+- Well-being
+date: "2020-07-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
