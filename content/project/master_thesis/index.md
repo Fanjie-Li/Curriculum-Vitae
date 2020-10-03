@@ -74,6 +74,9 @@ A one-week field experiment was conducted in participants’ own study places. D
 - Implemented the Multitasking test using PsychoPy based on specifications in literature, and refined an existing Python-based N-Back Test for assessing participants’ working memory capacity.
 - Conceived the conceptual framework. Performed data cleansing and analysis using Python and R.
 
+**Publications:**
+Li, F., Hu, X., & Que, Y. (2020). Learning with Background Music: A Field Experiment. In Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK '20) (pp.224-229). Frankfurt, Germany: ACM.
+
 **Working Papers:**
 - Optimizing Background Music for Learning: The Role of Music Characteristics, Task Load, and Learners’ Cognitive Capacity
 - Profiling the Music Preference of Learners: A Field Study.
