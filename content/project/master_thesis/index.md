@@ -42,6 +42,32 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
+
+ gallery_item:
+ - album: master_thesis
+   image: ui_search.png
+   caption: Music Filtering
+ - album: master_thesis
+   image: ui_playlist.png
+   caption: Favourite Music
+ - album: master_thesis
+   image: ui_player.png
+   caption: Music Player
+ - album: master_thesis
+   image: ui_survey.png
+   caption: Popup Survey
+ - album: master_thesis
+   image: music_features.png
+   caption: Music Features
+ - album: master_thesis
+   image: context.png
+   caption: Context-Related Data
+ - album: master_thesis
+   image: genre_cloud.png
+   caption: Genre Cloud
+ - album: master_thesis
+   image: mosaic_plots.png
+   caption: Mosaic Plot
 ---
 
 {{% callout note %}}
@@ -58,4 +84,6 @@ A one-week field experiment was conducted in participants’ own study places. D
 - Collected users’ motion data (e.g., sedentary state), heart rate, etc. using the Fitbit Versa smartwatch.
 - Implemented the Multitasking test using PsychoPy based on specifications in literature, and refined an existing Python-based N-Back Test for assessing participants’ working memory capacity.
 - Conceived the conceptual framework. Performed data cleansing and analysis using Python and R.
+
+{{< gallery >}}
 
