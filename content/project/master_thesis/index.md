@@ -64,7 +64,7 @@ Priciple Investigator: Fanjie Li
 
 This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience in view of the potential moderating effect of learners’ traits and task load.
 
-A one-week field experiment was conducted in participants’ own study places. During the experiment, participants were asked to conduct learning sessions with music in the background and collect the tracks they deemed suitable for learning using a novel mobile music app (i.e., Moody App). A set of participant-related, context-related, and music-related data were collected via a pre-experiment questionnaire, surveys popped up during the learning session, and the logging system of the music app.
+A one-week field experiment was conducted in participants’ own study places. During the experiment, participants were asked to conduct learning sessions with music in the background and collect the tracks they deemed suitable for learning using a novel mobile music app (i.e., Moody App). A set of participant-related, context-related, and music-related data were collected via the pre-experiment questionnaire, surveys popped up during the learning session, and the logging system of the music app.
 
 **Highlights:**
 - Designed and developed the Moody music App (iOS client with a Flask-based backend and the MySQL database) to facilitate longitudinal data collection in naturalistic settings;
