@@ -11,7 +11,8 @@ address:
   postcode: ''
   country: 
 
-summary: This talk presents Fanjie's thesis project proposal. 【 **Note** 】This presentation described the preliminary study design. The study design has been  refined in the final dissertation project.
+# This talk presents Fanjie's thesis project proposal. 【 **Note** 】This presentation described the preliminary study design. The study design has been  refined in the final dissertation project.
+summary: In CITERS 2019 Parallel Session 1- Paper Presentation
 abstract: ""
 
 # Talk start and end times.
