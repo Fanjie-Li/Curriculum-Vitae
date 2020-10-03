@@ -10,6 +10,7 @@ tags:
 - MIR system
 - User study
 - Naturalistic settings
+- Master thesis
 date: "2019-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
