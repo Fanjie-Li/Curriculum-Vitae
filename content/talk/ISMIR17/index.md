@@ -65,4 +65,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
-<iframe src="slide.pdf" width="100%" height="300", style="border:none;">
+<iframe src="slide.pdf" width="100%" height="400", style="border:1px;">
+
+
+
