@@ -65,4 +65,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-<iframe src="media/CITERS19/slide.pdf" width="500" height="700">
+<iframe src="/static/media/CITERS19/slide.pdf" width="80%" height="50%">
