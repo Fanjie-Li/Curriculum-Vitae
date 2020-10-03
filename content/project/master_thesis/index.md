@@ -44,28 +44,28 @@ url_video: ""
 slides: example
 
 gallery_item:
-- album: master_thesis
+- album: gallery
   image: ui_search.png
   caption: Music Filtering
-- album: master_thesis
+- album: gallery
   image: ui_playlist.png
   caption: Favourite Music
-- album: master_thesis
+- album: gallery
   image: ui_player.png
   caption: Music Player
-- album: master_thesis
+- album: gallery
   image: ui_survey.png
   caption: Popup Survey
-- album: master_thesis
+- album: gallery
   image: music_features.png
   caption: Music Features
-- album: master_thesis
+- album: gallery
   image: context.png
   caption: Context-Related Data
-- album: master_thesis
+- album: gallery
   image: genre_cloud.png
   caption: Genre Cloud
-- album: master_thesis
+- album: gallery
   image: mosaic_plots.png
   caption: Mosaic Plot
 ---
@@ -85,5 +85,5 @@ A one-week field experiment was conducted in participants’ own study places. D
 - Implemented the Multitasking test using PsychoPy based on specifications in literature, and refined an existing Python-based N-Back Test for assessing participants’ working memory capacity.
 - Conceived the conceptual framework. Performed data cleansing and analysis using Python and R.
 
-{{< gallery album="master_thesis" >}}
+{{< gallery album="gallery" >}}
 
