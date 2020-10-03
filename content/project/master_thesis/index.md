@@ -50,24 +50,24 @@ gallery_item:
 - album: gallery
   image: ui_playlist.png
   caption: Favourite Music
-- album: gallery
-  image: ui_player.png
-  caption: Music Player
-- album: gallery
-  image: ui_survey.png
-  caption: Popup Survey
+# - album: gallery
+#  image: ui_player.png
+#  caption: Music Player
+# - album: gallery
+#  image: ui_survey.png
+#  caption: Popup Survey
 # - album: gallery
 #  image: music_features.png
 #  caption: Music Features
 # - album: gallery
 #  image: context.png
 #  caption: Context-Related Data
-# - album: gallery
-#  image: genre_cloud.png
-#  caption: Genre Cloud
-# - album: gallery
-#  image: mosaic_plots.png
-#  caption: Mosaic Plot
+- album: gallery
+  image: genre_cloud.png
+  caption: Genre Cloud
+- album: gallery
+  image: mosaic_plots.png
+  caption: Mosaic Plot
 ---
 
 {{% callout note %}}
