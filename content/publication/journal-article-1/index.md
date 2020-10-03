@@ -1,5 +1,5 @@
 ---
-title: "Deep Reading: Controversy and Reconsideration [“深阅读”之争议与再思考]"
+title: "Deep Reading: Controversy and Reconsideration"
 authors:
 - admin
 - Guihua Li
