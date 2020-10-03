@@ -66,4 +66,4 @@ projects:
 math: true
 ---
 <div style="padding:15px;">
-<iframe src="slide.pdf" width="100%" height="450", style="border:1px solid black; margin-bottom: 25px;">
+<iframe src="slide.pdf" width="100%" height="450", style="border:1px solid black; margin-bottom: 50px;">
