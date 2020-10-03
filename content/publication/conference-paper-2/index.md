@@ -1,5 +1,5 @@
 ---
-title: "Can Background Music Facilitate Learning? Preliminary Results on Reading Comprehension."
+title: "Can Background Music Facilitate Learning? Preliminary Results on Reading Comprehension"
 authors:
 - Xiao Hu
 - admin
