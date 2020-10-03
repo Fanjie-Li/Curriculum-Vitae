@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 93  # Order that this section will appear.
 
 # title = "Recent & Upcoming Talks"
-title = "Presentations"
+title = "Presentations & Posters"
 subtitle = ""
 
 [content]
@@ -41,7 +41,12 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-  
+
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "40px", "0"]
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
