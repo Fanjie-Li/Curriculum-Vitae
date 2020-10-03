@@ -36,11 +36,11 @@ featured: false
 links:
 # - icon: twitter
 #  icon_pack: fab
-  name: Slide
-  url: media/CITERS19/slide.pdf
+#  name: Slide
+#  url: media/CITERS19/slide.pdf
 # url_code: ""
 # url_pdf: ""
-# url_slides: "media/CITERS19/slide.pdf"
+url_slides: "media/CITERS19/slide.pdf"
 # url_video: ""
 
 # Markdown Slides (optional).
