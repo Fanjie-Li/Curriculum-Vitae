@@ -36,7 +36,7 @@ featured: false
 links:
 # - icon: twitter
 #  icon_pack: fab
-  name: Slide
+- name: Slide
   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
