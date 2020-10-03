@@ -1,7 +1,7 @@
 ---
 title: A Field Experiment on Music Preference during Learning
 event: CITE Research Symposium 2019 (CITERS 2019)
-event_url: hhttps://citers2019.cite.hku.hk/
+event_url: https://citers2019.cite.hku.hk/
 
 location: Main Library, The University of Hong Kong
 address:
@@ -36,11 +36,11 @@ featured: false
 links:
 # - icon: twitter
 #  icon_pack: fab
-#  name: Follow
-#  url: media/CITERS19/slide.pdf
+  name: Follow
+  url: media/CITERS19/slide.pdf
 # url_code: ""
 # url_pdf: ""
-# url_slides: "media/CITERS19/slide.pdf"
+url_slides: "media/CITERS19/slide.pdf"
 # url_video: ""
 
 # Markdown Slides (optional).
