@@ -38,7 +38,7 @@ links:
 url_pdf: media/ISMIR18/115_Paper.pdf
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: 'media/ISMIR18/poster.pdf'
+url_poster: 'media/ISMIR18/poster.pdf'
 # url_project: ''
 url_slides: ''
 url_source: 'https://ismir.net/conferences/ismir2018.html'
