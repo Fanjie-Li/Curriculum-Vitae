@@ -5,7 +5,7 @@ event_url: https://ismir2017.ismir.net/
 
 location: National University of Singapore Research Institute (NUSRI)
 address:
-  street: 
+  street: Linquan Street
   city: Suzhou
   region: Jiangsu
   postcode: '215123'
