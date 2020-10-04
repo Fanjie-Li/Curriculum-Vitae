@@ -31,6 +31,8 @@ links:
   url: https://youtu.be/4Cn03gJ0nNA
 - name: Multitasking Test Demo
   url: https://youtu.be/PQu51J9s4ss
+- name: Multitasking Test @ Github
+  url: https://github.com/Fanjie-Li/Multitasking-Test
 url_code: ""
 url_pdf: ""
 url_slides: ""
