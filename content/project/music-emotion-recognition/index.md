@@ -51,8 +51,5 @@ This project aims to enhance the emotion-aware music recommendation via physiolo
     * Music signal processing 
     * Built music emotion recognition (MER) models using machine learning methods
 
-**Publications:**
-- Hu, X., Li, F., & Ng, T. D. J. (2018). On the Relationships between Music-induced Emotion and Physiological Signals. In Proceedings of the 19th International Society for Music Information Retrieval Conference (ISMIR '18) (pp. 362-369). Paris, France: ISMIR.
-
-**Working Papers:**
+**In Progress / Working Papers:**
 - Detecting Music-Induced Emotion Based on Acoustic Analysis and Physiological Sensing: A Multimodal Approach
