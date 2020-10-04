@@ -40,7 +40,7 @@ url_pdf: media/LAK20/paper_270.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: ''
-# url_project: ''
+url_project: 'project/master_thesis/'
 url_slides: ''
 # url_source: '#'
 # url_video: '#'
@@ -58,7 +58,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- master_thesis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
