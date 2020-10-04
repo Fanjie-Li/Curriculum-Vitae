@@ -1,6 +1,6 @@
 ---
 title: Data Science Education
-summary: Developing and Evaluating Interdisciplinarity and Internationalization (I&I) in the Curriculum of Bachelor of Arts and Sciences in Social Data Science.
+summary: Developing and Evaluating Interdisciplinarity and Internationalization in the Curriculum of Bachelor of Arts and Sciences in Social Data Science.
 
 tags:
 - Teaching development
@@ -41,7 +41,7 @@ slides: example
 Principle Investigator: Dr. Xiao Hu
 {{% /callout %}}
 
-This teaching development project aims to enhance the interdisciplinary and internationalized learning experience in the B.A.Sc. Social Data Science program.
+This teaching development project aims to enhance the interdisciplinary and internationalized (I&I) learning experience in the B.A.Sc. Social Data Science program.
 
 
 **Current Duties:**
