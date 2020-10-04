@@ -49,4 +49,4 @@ This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on you
 - Participated in the coding process of a grounded theory study regarding youth reading behaviour.
 
 **Publications:**
-- Li, F. & Li, G.. (2017). Deep Reading: Controversy and Reconsideration. Journal of the National Library of China, 26(6), 16-25. doi: 10.13666/j.cnki.jnlc.2017.06.002.
+- Li, F. & Li, G.. (2017). [Deep Reading: Controversy and Reconsideration](publication/journal-article-1/). Journal of the National Library of China, 26(6), 16-25. doi: 10.13666/j.cnki.jnlc.2017.06.002.
