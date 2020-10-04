@@ -1,6 +1,6 @@
 ---
 title: Leveraging Background Music for Learning - An Interdisciplinary Approach
-summary: This is a study investigating the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. An experiment was conducted with 33 graduate students, where a series of cognitive, metacognitive, affective variables and physiological signals were collected and analysed.
+summary: This is a study investigating the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. 
 tags:
 - Music
 - Learning
