@@ -42,6 +42,8 @@ links:
   url: https://ismir2017.ismir.net/
 - name: Schedule
   url: https://ismir2017.ismir.net/index.html%3Fp=1102.html
+- name: Project
+  url: project/music-emotion-recognition/
 # url_code: ""
 # url_pdf: ""
 url_slides: ""
@@ -60,7 +62,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- music-emotion-recognition
 
 # Enable math on this page?
 math: true
