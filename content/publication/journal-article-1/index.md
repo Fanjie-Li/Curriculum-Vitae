@@ -40,7 +40,7 @@ url_pdf: media/JNLC/fulltext.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: ''
-# url_project: ''
+url_project: 'project/deep-reading/'
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
@@ -58,7 +58,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- deep-reading
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
