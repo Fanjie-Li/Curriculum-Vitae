@@ -85,4 +85,4 @@ user_groups:
 
 Fanjie Li is currently a research assistant at the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/). Her research interests include learning analytics, learning technologies, human computer interaction, human-centered data science, and affective computing. 
 
-As an amateur graphic designer, photographer, and [Guzheng](https://en.wikipedia.org/wiki/Guzheng) & Ukulele player, she is also interested in UI/UX design and music computing.
+As an amateur graphic designer, photographer, and Guzheng (a Chinese plucked zither) & Ukulele player, she is also interested in UI/UX design and music computing.
