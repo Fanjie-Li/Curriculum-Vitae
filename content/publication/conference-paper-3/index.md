@@ -39,7 +39,7 @@ url_pdf: media/ISMIR18/115_Paper.pdf
 # url_code: '#'
 # url_dataset: '#'
 url_poster: 'media/ISMIR18/poster.pdf'
-# url_project: ''
+url_project: 'project/music-emotion-recognition/'
 url_slides: ''
 # url_source: 'https://ismir.net/conferences/ismir2018.html'
 # url_video: '#'
@@ -57,7 +57,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- music-emotion-recognition
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
