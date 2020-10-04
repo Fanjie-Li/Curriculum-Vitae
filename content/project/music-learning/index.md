@@ -7,7 +7,7 @@ tags:
 - Reading comprehension
 - Affect
 - Learning performance
-- Metacognition,
+- Metacognition
 - Physiological signals
 date: "2019-09-15T00:00:00Z"
 
@@ -23,7 +23,7 @@ links:
 #  icon_pack: fab
 - name: LAK 2019
   url: media/LAK19/p101-hu.pdf
-- name: LAK19 Presentation
+- name: LAK'19 Presentation
   url: media/LAK19/slide.pdf
 # url_code: ""
 # url_pdf: ""
