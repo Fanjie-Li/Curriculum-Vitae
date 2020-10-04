@@ -61,6 +61,4 @@ It is a common phenomenon for students to listen to background music while study
 - Physiological signal processing;
 - Statistical hypothesis testing.
 
-**Publications:**
-- Hu, X., Li, F., & Kong, R. (2019). Can Background Music Facilitate Learning? Preliminary Results on Reading Comprehension. In Proceedings of the 9th International Conference on Learning Analytics & Knowledge (LAK '19) (pp. 101-105). Tempe, AZ, USA: ACM.
 
