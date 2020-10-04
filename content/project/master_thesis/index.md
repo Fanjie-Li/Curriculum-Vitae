@@ -1,6 +1,6 @@
 ---
 title: A Field Experiment on Music Preference during Learning
-summary: This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience in view of the potential moderating effect of learners’ traits and task load.
+summary: This study aims to a) profile the music preference of learners in view of the potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience.
 tags:
 - Music
 - Learning
