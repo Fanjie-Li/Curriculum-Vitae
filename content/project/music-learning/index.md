@@ -1,5 +1,5 @@
 ---
-title: Leveraging Background Music for Learning: An Interdisciplinary Approach
+title: Leveraging Background Music for Learning - An Interdisciplinary Approach
 summary: It is a common phenomenon for students to listen to background music while studying. However, there are mixed and inconclusive findings in the literature, leaving it unclear whether and in which circumstances background music can facilitate or hinder learning. This is a study investigating the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. An experiment was conducted with 33 graduate students, where a series of cognitive, metacognitive, affective variables and physiological signals were collected and analysed.
 tags:
 - Music
