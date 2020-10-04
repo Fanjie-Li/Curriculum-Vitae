@@ -43,6 +43,8 @@ links:
   url: https://citers2019.cite.hku.hk/
 - name: Schedule
   url: https://citers2019.cite.hku.hk/program-overview/parallel-sessions/
+- name: Project
+  url: project/master_thesis/
 # url_code: ""
 # url_pdf: ""
 url_slides: "media/CITERS19/slide.pdf"
@@ -61,7 +63,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- master_thesis
 
 # Enable math on this page?
 math: true
