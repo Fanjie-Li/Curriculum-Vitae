@@ -40,13 +40,13 @@ subtitle = ""
   icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Intermediate"
+  description = "High-Intermediate"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Intermediate"
+  description = "High-Intermediate"
 
 [[feature]]
   icon = "music"
@@ -88,7 +88,7 @@ subtitle = ""
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "Novice"
+  description = "Low-Intermediate"
 
 # Uncomment to use emoji icons.
 # [[feature]]
