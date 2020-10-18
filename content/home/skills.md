@@ -40,7 +40,7 @@ subtitle = ""
   icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "High-Intermediate"
+  description = "Intermediate"
   
 [[feature]]
   icon = "chart-line"
