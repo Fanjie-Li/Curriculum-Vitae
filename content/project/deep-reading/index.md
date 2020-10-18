@@ -47,3 +47,4 @@ This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on you
 **Major Contributions:**
 - Discussed major controversies in the conceptualization of deep reading based on a systematic literature review and K-Means clustering of the expert survey responses;
 - Participated in the coding process of a grounded theory study regarding youth reading behaviour.
+- Participated in the design and implementation of a reading planner: the [EverRead](https://youtu.be/_NC4wBKcnac) web- & mobile-app (supported by the National College Students' Innovation and Entrepreneurship Training Program).
