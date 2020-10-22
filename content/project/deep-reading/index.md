@@ -1,5 +1,5 @@
 ---
-title: Deep Reading - Theoretical Conceptualization and Implifications for Practices
+title: Deep Reading - Theoretical Conceptualization and Implications for Practices
 summary: This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on youth reading behaviour in Omni-media Era and strategies for reading promotion.
 
 tags:
