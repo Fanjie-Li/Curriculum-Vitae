@@ -46,7 +46,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "High-Intermediate"
+  description = "Intermediate"
 
 [[feature]]
   icon = "music"
