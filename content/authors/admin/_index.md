@@ -44,19 +44,19 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
+# - icon: envelope
+#  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: 'mailto:fanjie@connect.hku.hk'
+#  link: 'mailto:fanjie@connect.hku.hk'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=CAC5-U4AAAAJ&hl=en&oi=sra
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7016-6354/print
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CAC5-U4AAAAJ&hl=en&oi=sra
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Fanjie_Li3
