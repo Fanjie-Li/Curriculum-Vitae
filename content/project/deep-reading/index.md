@@ -1,6 +1,6 @@
 ---
 title: Deep Reading - Theoretical Conceptualization and Implications for Practices
-summary: This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on youth reading behaviour in Omni-media Era and strategies for reading promotion.
+summary: This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on youth reading behaviour in the Omni-media Era and strategies for reading promotion.
 
 tags:
 - Learning
@@ -41,10 +41,10 @@ slides: example
 Principle Investigator: Prof. Guihua Li
 {{% /callout %}}
 
-This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on youth reading behaviour in Omni-media Era and strategies for reading promotion.
+This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on youth reading behaviour in the Omni-media Era and strategies for reading promotion.
 
 
 **Major Contributions:**
 - Discussed (i) major controversies in the conceptualization of *deep reading* based on a systematic literature review and K-Means clustering of expert survey responses and (ii) the mechanisms underlying *deep reading* in terms of (a) the cognitive-affective process inside the reading brain and (b) reading as a social process; [» *Publication*](https://fanjie-li.netlify.app/publication/journal-article-1/)
 - Participated in the coding process of a grounded theory study regarding youth reading behaviour;
-- Participated in the design and implementation of a reading planner: the [EverRead](https://youtu.be/_NC4wBKcnac) web- & mobile-app (supported by the National College Students' Innovation and Entrepreneurship Training Program).
+- Participated in the design and implementation of a reading planner: [EverRead](https://youtu.be/_NC4wBKcnac)(supported by the National College Students' Innovation and Entrepreneurship Training Program).
