@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   company = "University of Notre Dame"
   company_url = "https://international.nd.edu/students-scholars/global-engagement-programs/summer-programs/isure/"
   location = ""
-  date_start = "2020-05-01"
-  date_end = "2020-06-01"
+  date_start = "2016-07-05"
+  date_end = "2016-08-29"
   description = """International Summer Undergraduate Research Experience (iSURE) Program"""
   Affiliation: Social Sensing Lab (Director: Dr. Dong Wang), Department of Computer Science and Engineering
 
