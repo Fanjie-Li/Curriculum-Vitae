@@ -24,7 +24,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "The University of Hong Kong"
-  company_url = ""
+  company_url = "http://ccmir.cite.hku.hk/index.php/people/"
   location = "Hong Kong SAR"
   date_start = "2020-09-07"
   date_end = ""
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Conference Reviewer"
   company = "ISMIR 2020"
-  company_url = ""
+  company_url = "https://www.ismir2020.net/"
   location = ""
   date_start = "2020-05-01"
   date_end = "2020-06-01"
@@ -43,13 +43,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Summer Student"
-  company = "University of Notre Dame"
+  company = "University of Notre Dame: iSURE Program"
   company_url = "https://international.nd.edu/students-scholars/global-engagement-programs/summer-programs/isure/"
   location = ""
   date_start = "2016-07-05"
   date_end = "2016-08-29"
   description = """
-  International Summer Undergraduate Research Experience (iSURE) Program &nbsp;
   Affiliation: Social Sensing Lab (Director: Dr. Dong Wang), Department of Computer Science and Engineering
   """
 
