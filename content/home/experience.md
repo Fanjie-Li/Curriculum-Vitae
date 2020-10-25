@@ -48,7 +48,9 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2016-07-05"
   date_end = "2016-08-29"
-  description = """International Summer Undergraduate Research Experience (iSURE) Program"""
+  description = """
+  International Summer Undergraduate Research Experience (iSURE) Program
   Affiliation: Social Sensing Lab (Director: Dr. Dong Wang), Department of Computer Science and Engineering
+  """
 
 +++
