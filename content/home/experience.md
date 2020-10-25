@@ -41,4 +41,14 @@ date_format = "Jan 2006"
   date_end = "2020-06-01"
   description = """The 21st International Society for Music Information Retrieval Conference (ISMIR 2020)"""
 
+[[experience]]
+  title = "Summer Student"
+  company = "University of Notre Dame"
+  company_url = "https://international.nd.edu/students-scholars/global-engagement-programs/summer-programs/isure/"
+  location = ""
+  date_start = "2020-05-01"
+  date_end = "2020-06-01"
+  description = """International Summer Undergraduate Research Experience (iSURE) Program"""
+  Affiliation: Social Sensing Lab (Director: Dr. Dong Wang), Department of Computer Science and Engineering
+
 +++
