@@ -36,6 +36,8 @@ featured: true
 links:
 - name: Slide
   url: media/LAK20/slide.pdf
+- name: Abstract
+  url: https://fanjie-li.netlify.app/publication/conference-paper-1/
 url_pdf: media/LAK20/paper_270.pdf
 # url_code: '#'
 # url_dataset: '#'
