@@ -34,6 +34,8 @@ tags:
 featured: true
 
 links:
+- name: Abstract
+  url: https://fanjie-li.netlify.app/publication/journal-article-1/
 - name: Cited By
   url: https://kns.cnki.net/kcms/detail/search.aspx?sfield=cite&sKey=%e2%80%9c%e6%b7%b1%e9%98%85%e8%af%bb%e2%80%9d%e4%b9%8b%e4%ba%89%e8%ae%ae%e4%b8%8e%e5%86%8d%e6%80%9d%e8%80%83&code=BJJG201706003&dbcode=CJFD
 url_pdf: media/JNLC/fulltext.pdf
