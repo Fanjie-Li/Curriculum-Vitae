@@ -38,7 +38,7 @@ slides: example
 ---
 
 {{% callout note %}}
-Principle Investigator: Dr. Xiao Hu
+Principal Investigator: Dr. Xiao Hu
 {{% /callout %}}
 
 This project aims to enhance the emotion-aware music recommendation via physiological sensing. In this project, we conducted a user experiment with Moody Web to collect users' listening behaviors, self-reported emotional responses to music, and peripheral physiological signals during music searching and listening. The dataset built from the user experiment will be used to build the music emotion recognition (MER) module of the music recommendation system.
