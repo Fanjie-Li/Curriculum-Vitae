@@ -38,7 +38,7 @@ slides: example
 ---
 
 {{% callout note %}}
-Principle Investigator: Dr. Xiao Hu
+Principal Investigator: Dr. Xiao Hu
 {{% /callout %}}
 
 This teaching development project aims to enhance the interdisciplinary and internationalized (I&I) learning experience in the B.A.Sc. Social Data Science program.
