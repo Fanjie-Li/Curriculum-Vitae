@@ -12,7 +12,7 @@ tags:
 date: "2020-03-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://ccmir.cite.hku.hk/index.php/developing-and-evaluating-interdisciplinarity-and-internationalization-in-data-science-education/"
 
 image:
   caption: BASc(SDS) Program
