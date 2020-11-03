@@ -33,6 +33,8 @@ links:
   url: https://youtu.be/PQu51J9s4ss
 - name: Multitasking Test @ Github
   url: https://github.com/Fanjie-Li/Multitasking-Test
+- name: External Link
+  url: http://ccmir.cite.hku.hk/index.php/leverage-the-power-of-music-for-learning/
 url_code: ""
 url_pdf: ""
 url_slides: ""
