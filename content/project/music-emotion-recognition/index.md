@@ -25,6 +25,8 @@ links:
   url: media/ISMIR18/115_Paper.pdf
 - name: ISMIR'18 Poster
   url: media/ISMIR18/poster.pdf
+- name: External Link
+  url: http://ccmir.cite.hku.hk/index.php/leverage-the-power-of-music-for-learning/
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
