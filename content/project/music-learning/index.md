@@ -27,6 +27,8 @@ links:
   url: media/LAK19/slide.pdf
 - name: Experiment Design (HI-RES)
   url: media/LAK19/LAK19-experiment-design.png
+- name: External Link
+  url: http://ccmir.cite.hku.hk/index.php/leverage-the-power-of-music-for-learning/
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
