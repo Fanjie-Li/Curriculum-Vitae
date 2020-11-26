@@ -1,44 +1,43 @@
 ---
-title: "Learning with Background Music: A Field Experiment"
+title: "A Field Experiment on Music Preference during Learning"
 authors:
 - admin
-- Xiao Hu
-- Ying Que
-date: "2020-03-23T00:00:00Z"
-doi: "10.1145/3375462.3375529"
+date: "2020-11-18T00:00:00Z"
+doi: "http://hdl.handle.net/10722/291141"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-23T00:00:00Z"
+publishDate: "2020-11-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK 2020)*
-publication_short: In *LAK 2020*
+publication: In *HKU Theses Online*
+publication_short: In *HKU Theses Online*
 
-abstract: Empirical evidence of how background music benefits or hinders learning becomes the crux of optimizing music recommendation in educational setings. This study aims to further probe the underlying mechanism through an experiment in naturalistic seting. 30 participants were recruited to join a field experiment which was conducted in their own study places for one week. During the experiment, participants were asked to conduct learning sessions with music in the background and collect music tracks they deemed suitable for learning using a novel mobilebased music discovery application. A set of participant-related, context-related, and music-related data were collected via a preexperiment questionnaire, surveys popped up in the music app, and the logging system of the music app. Preliminary results reveal correlations between certain music characteristics and learners’ task engagement and perceived task performance. This study is expected to provide evidence for understanding cognitive and emotional dimensions of background music during learning, as well as implications for the role of personalization in the selection of background music for facilitating learning.
+abstract: Empirical evidence of how background music benefits or hinders learning becomes the crux of optimizing music recommendation in educational settings. This study aims to explore how background music befits learning through an experiment in naturalistic setting. A one-week field experiment was conducted in participants’ own study places. During the experiment, participants were asked to conduct learning sessions with music in the background and collect the tracks they deemed suitable for learning using a novel mobile music app (i.e., Moody App). A set of participant-related, context-related, and music-related data were collected via the pre-experiment questionnaire, surveys popped up during the learning session, and the logging system of the music app.
+
+Our findings revealed some general tendencies of learners’ music preference in terms of music style, music emotion (i.e., happiness, energy), and the dynamical and timbral characteristics of music. Group-wise difference in music preference was also observed when grouping participants by certain personal factors (e.g., personality, working memory capacity, prior habit of studying with background music). In regard to the association between music characteristics and listeners’ learning experience, both affective dimensions of music emotion(i.e., happiness, energy) were found to significantly correlate with participants’ learning
+engagement. Though no overall effect of dynamical, rhythmic, and timbral features was observed, the timbre quality of music showed significant effect in certain condition when the potential moderating effect of task load and learners’ traits was considered.
+
+This study is expected to provide evidence for understanding the effects of background music on learning, as well as implications for designing music recommendation systems that are capable of intelligently selecting background music for facilitating learning.
 
 # Summary. An optional shortened abstract.
-summary: In Proceedings of the 10th International Conference on Learning Analytics & Knowledge (LAK 2020).
+summary: In HKU Theses Online
 
 tags:
 - Background music
 - Learning engagement
-- Learning performance
+- Learning experience
 - Naturalistic setting
 - Music information retrieval
 featured: true
 
 links:
-- name: Slide
-  url: media/LAK20/slide.pdf
-- name: Abstract
-  url: https://fanjie-li.netlify.app/publication/conference-paper-1/
-url_pdf: media/LAK20/paper_270.pdf
+url_pdf: media/master_thesis/thesis.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: ''
