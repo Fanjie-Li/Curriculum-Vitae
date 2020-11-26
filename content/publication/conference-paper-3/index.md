@@ -1,5 +1,5 @@
 ---
-title: "On the Relationships between Music-induced Emotion and Physiological Signals"
+title: "On the Relationships between Music-Induced Emotion and Physiological Signals"
 authors:
 - Xiao Hu
 - admin
