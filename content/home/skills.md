@@ -45,7 +45,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Statistical Inference"
   description = "Intermediate"
 
 [[feature]]
