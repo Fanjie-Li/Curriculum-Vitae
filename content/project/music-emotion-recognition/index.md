@@ -47,7 +47,7 @@ This project aims to enhance the emotion-aware music recommendation via physiolo
 
 
 **Major Contributions:**
-- Designed and performed a user experiment to build a dataset with synchronized physiological signals (BVP, HR, IBI, EDA, TEMP) and user-labeled music-induced emotion;
+- Designed and performed a user experiment to build a dataset with synchronized physiological signals (BVP, HR, IBI, EDA, TEMP) and user-labelled music-induced emotion;
 - Data analysis: 
     * Physiological signal processing 
     * Music signal processing 
