@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "University of Hong Kong; HKU SIRI"
+  company = "HKU SIRI, University of Hong Kong"
   company_url = "http://ccmir.cite.hku.hk/index.php/people/"
   location = "Hong Kong SAR"
   date_start = "2020-03-15"
