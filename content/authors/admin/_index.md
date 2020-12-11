@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning analytics, learning technologies, human computer interaction, and affective computing.
+bio: My research interests include learning analytics, educational data mining, human computer interaction, and affective computing.
 
 interests:
 - Learning Analytics
-- Learning Technologies
+- Educational Data Mining
 - Human Computer Interaction
 - Affective Computing
 - Music Information Retrieval
@@ -86,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-Fanjie Li is currently a research assistant at the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/). Her research interests include learning analytics, learning technologies, human computer interaction, human-centered design, and affective computing. 
+Fanjie Li is currently a research assistant at the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/). Her research interests include learning analytics, educational data mining, human computer interaction, human-centered design, and affective computing. 
 
 As an amateur graphic designer, photographer, and Guzheng (a Chinese plucked zither) & Ukulele player, she is also interested in UI/UX design and music computing.
