@@ -46,5 +46,5 @@ This teaching development project aims to enhance the interdisciplinary and inte
 
 **Current Duties:**
 - Develop the I&I assessment framework based on a thorough literature review;
-- Design the teacher/student interview protocol, pre- & post- teacher/student surveys, and document analysis protocols (sample documents: student assignment, course materials/handouts);
+- Design the teacher/student interview protocol, teacher/student surveys, and document analysis protocols (sample documents: student assignment, course materials);
 - Develop repositories of interdisciplinary topics and datasets for students’ capstone projects.
