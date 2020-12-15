@@ -38,7 +38,7 @@ slides: example
 ---
 
 {{% callout note %}}
-Principal Investigator: Prof. Guihua Li
+Jul. 2016 - Jun. 2018 (Principal Investigator: Prof. Guihua Li)
 {{% /callout %}}
 
 This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on youth reading behaviour in the Omni-media Era and strategies for reading promotion.
