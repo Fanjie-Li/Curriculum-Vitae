@@ -33,6 +33,8 @@ tags:
 featured: true
 
 links:
+- name: iConference 2021
+  url: https://ischools.org/iConference
 - name: Abstract
   url: https://fanjie-li.netlify.app/publication/conference-paper-4/
 # url_pdf: media/LAK20/paper_270.pdf
