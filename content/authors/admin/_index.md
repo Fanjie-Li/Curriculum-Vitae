@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: M.Sc.LIM (Data Science)
-    institution: The University of Hong Kong
+    institution: University of Hong Kong
     year: 2020
   - course: B.Eng. Software Engineering
     institution: Sichuan University
