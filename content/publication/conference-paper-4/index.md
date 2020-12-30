@@ -3,6 +3,7 @@ title: "Exploring Interdisciplinary Data Science Education for Undergraduates: P
 authors:
 - admin
 - Zhiping Xiao
+- Jeremy Tzi Dong Ng
 - Xiao Hu
 date: "2021-03-28T00:00:00Z"
 doi: ""
