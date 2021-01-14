@@ -5,7 +5,7 @@ authors:
 - Zuo Wang
 - Jeremy Tzi Dong Ng
 - Xiao Hu
-date: "2021-01-13T00:00:00Z"
+date: "2021-04-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,8 +36,6 @@ tags:
 featured: true
 
 links:
-- name: Slide
-  url: 
 - name: Abstract
   url: https://fanjie-li.netlify.app/publication/conference-paper-5/
 url_pdf: 
