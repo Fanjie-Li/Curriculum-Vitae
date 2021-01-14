@@ -3,7 +3,7 @@ title: "On the Relationships between Music-Induced Emotion and Physiological Sig
 authors:
 - Xiao Hu
 - admin
-- Jeremy T. D. Ng
+- Jeremy Tzi Dong Ng
 date: "2018-09-23T00:00:00Z"
 doi: ""
 
