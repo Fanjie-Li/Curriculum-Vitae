@@ -36,6 +36,8 @@ tags:
 featured: true
 
 links:
+- name: LAK21
+  url: https://www.solaresearch.org/events/lak/lak21/accepted-papers/
 - name: Abstract
   url: https://fanjie-li.netlify.app/publication/conference-paper-5/
 url_pdf: 
