@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-15"
   date_end = ""
   description = """
-  Affiliation: CCMIR Lab (Director: Dr. Xiao Hu), Faculty of Education
+  Affiliation: Culture Computing and Multimodal Information Research Laboratory (Director: Dr. Xiao Hu), Faculty of Education
   """
 
 [[experience]]
