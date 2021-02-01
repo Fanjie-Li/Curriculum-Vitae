@@ -25,7 +25,7 @@ interests:
 - Educational Data Mining
 - Human Computer Interaction
 - Affective Computing
-- Music Information Retrieval
+- Learning Sciences
 
 education:
   courses:
