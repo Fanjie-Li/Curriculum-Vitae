@@ -6,6 +6,7 @@ tags:
 - Teaching development
 - Data science education
 - Program assessment
+- Assessment in curriculum development
 - Interdisciplinarity
 - Internationalization
 - Higher education
