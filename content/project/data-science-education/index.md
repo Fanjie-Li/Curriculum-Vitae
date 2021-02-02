@@ -5,7 +5,6 @@ summary: Developing and Evaluating Interdisciplinarity and Internationalization 
 tags:
 - Teaching development
 - Data science education
-- Program assessment
 - Assessment in curriculum development
 - Interdisciplinarity
 - Internationalization
