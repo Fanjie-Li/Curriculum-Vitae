@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin, Jeremy T.D. Ng, Xiao Hu]
+authors: [admin, Jeremy Tzi Dong Ng, Xiao Hu]
 tags: [Music emotion recognition, Music-induced emotion, Physiological signals, User experiment]
 
 # Is this a featured talk? (true/false)
