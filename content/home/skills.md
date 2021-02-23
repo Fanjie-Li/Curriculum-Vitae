@@ -88,7 +88,7 @@ subtitle = ""
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "Low-Intermediate"
+  description = "Intermediate"
 
 # Uncomment to use emoji icons.
 # [[feature]]
