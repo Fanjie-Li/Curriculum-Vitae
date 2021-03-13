@@ -46,5 +46,5 @@ This teaching development project aims to enhance the interdisciplinary and inte
 
 **Current Duties:**
 - Develop the curriculum assessment framework and associated instruments;
-- Design protocols for assessing the interdisciplinarity of students’ capstone projects using learning analytics methods (e.g., epistemic network analysis);
+- Design protocols for assessing the interdisciplinarity of students’ capstone projects using learning analytics methods (e.g., Epistemic Network Analysis);
 - Develop repositories of interdisciplinary topics and datasets for students’ capstone projects.
