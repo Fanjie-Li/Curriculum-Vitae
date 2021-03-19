@@ -18,13 +18,13 @@ publishDate: "2020-12-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Diversity, Divergence, Dialogue the 16th International Conference on Information (iConference 2021)*
+publication: In *Diversity, Divergence, Dialogue - The 16th International Conference on Information (iConference 2021)*
 publication_short: In *iConference 2021*
 
 abstract: This paper reports a systematic literature review on undergraduate data science education followed by semi-structured interviews with two frontier data science educators. Through analyzing the hosting departments, design principles, curriculum objectives, and curriculum design of existing programs, our findings reveal that (1) the data science field is inherently interdisciplinary and requires joint collaborations between various departments. Multi-department administration was one of the solutions to offer interdisciplinary training, but some problems have also been identified in its practical implementation; (2) data science education should emphasize hands-on practice and experiential learning opportunities to prepare students for data analysis and problem-solving in real-world contexts; and (3) although the importance of comprehensive coverage of various disciplines in data science curricula is widely acknowledged, how to achieve an effective balance between various disciplines and how to effectively integrate domain knowledge into the curriculum still remain open questions. Findings of this study can provide insights for the design and development of emerging undergraduate data science programs.
 
 # Summary. An optional shortened abstract.
-summary: In Diversity, Divergence, Dialogue the 16th International Conference on Information (iConference 2021).
+summary: In Diversity, Divergence, Dialogue - The 16th International Conference on Information (iConference 2021).
 
 tags:
 - Data science education
