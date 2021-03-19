@@ -6,7 +6,7 @@ authors:
 - Jeremy Tzi Dong Ng
 - Xiao Hu
 date: "2021-03-28T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-030-71292-1_43"
+doi: "10.1007/978-3-030-71292-1_43"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-16T00:00:00Z"
@@ -34,6 +34,12 @@ tags:
 featured: true
 
 links:
+- name: Slide
+  url: media/iConference21/iConf_DataSciEd.pdf
+- name: iConference
+  url: https://ischools.org/iConference
+- name: Abstract
+  url: https://fanjie-li.netlify.app/publication/conference-paper-4/
 url_pdf: media/iConference21/paper_404.pdf
 # url_code: '#'
 # url_dataset: '#'
