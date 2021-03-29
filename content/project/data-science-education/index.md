@@ -41,7 +41,7 @@ slides: example
 Aug. 2020 - Present (Principal Investigator: Dr. Xiao Hu)
 {{% /callout %}}
 
-This teaching development project aims to enhance the interdisciplinary and internationalized (I&I) learning experience in the B.A.Sc. Social Data Science program.
+This teaching development project aims to enhance the interdisciplinary and internationalized learning experience in the B.A.Sc. Social Data Science program.
 
 
 **Current Duties:**
