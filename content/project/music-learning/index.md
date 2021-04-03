@@ -44,7 +44,7 @@ slides: example
 ---
 
 {{% callout note %}}
-Aug. 2018 - Present (Principal Investigator: Dr. Xiao Hu)
+Jul. 2018 - Present (Principal Investigator: Dr. Xiao Hu)
 {{% /callout %}}
 
 It is a common phenomenon for students to listen to background music while studying. However, there are mixed and inconclusive findings in the literature, leaving it unclear whether and in which circumstances background music can facilitate or hinder learning. In this project, we conducted a laboratory experiment to investigate the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. 
