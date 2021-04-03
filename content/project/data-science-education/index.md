@@ -43,8 +43,7 @@ Aug. 2020 - Present (Principal Investigator: Dr. Xiao Hu)
 
 This teaching development project aims to enhance the interdisciplinary and internationalized learning experience in the B.A.Sc. Social Data Science program.
 
-
-**Current Duties:**
-- Develop the curriculum assessment framework and associated instruments;
-- Design protocols for assessing the interdisciplinarity of students’ capstone projects using learning analytics methods (e.g., Epistemic Network Analysis);
-- Develop repositories of interdisciplinary topics and datasets for students’ capstone projects.
+**Duties:**
+- Developed the curriculum assessment framework and associated instruments;
+- Developed repositories of interdisciplinary cases, topics and datasets in social data science;
+- Designed protocols for assessing the interdisciplinarity of students’ capstone projects using learning analytics methods (e.g., Epistemic Network Analysis).
