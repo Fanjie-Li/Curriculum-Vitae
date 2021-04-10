@@ -6,7 +6,7 @@ authors:
 - Jeremy Tzi Dong Ng
 - Xiao Hu
 date: "2021-04-11T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1145/3448139.3448206"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-13T00:00:00Z"
@@ -25,7 +25,7 @@ abstract: Through profiling learners’ music usage in everyday learning setting
 
 
 # Summary. An optional shortened abstract.
-summary: Accepted to Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK 2021).
+summary: In Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK 2021).
 
 tags:
 - Background music
@@ -36,8 +36,6 @@ tags:
 featured: true
 
 links:
-- name: LAK21
-  url: https://www.solaresearch.org/events/lak/lak21/accepted-papers/
 - name: Abstract
   url: https://fanjie-li.netlify.app/publication/conference-paper-5/
 url_pdf: 
