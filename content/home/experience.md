@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """The 21st International Society for Music Information Retrieval Conference (ISMIR 2020)"""
 
 [[experience]]
-  title = "Summer Student"
+  title = "Summer Intern"
   company = "University of Notre Dame: iSURE Program"
   company_url = "https://international.nd.edu/students-scholars/global-engagement-programs/summer-programs/isure/"
   location = ""
