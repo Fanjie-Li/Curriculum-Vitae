@@ -38,8 +38,6 @@ links:
   url: media/iConference21/iConf_DataSciEd.pdf
 - name: iConference
   url: https://ischools.org/iConference
-- name: Abstract
-  url: https://fanjie-li.netlify.app/publication/conference-paper-4/
 url_pdf: media/iConference21/paper_404.pdf
 # url_code: '#'
 # url_dataset: '#'
