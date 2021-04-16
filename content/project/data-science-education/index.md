@@ -3,7 +3,7 @@ title: Data Science Education
 summary: Developing and Evaluating Interdisciplinarity and Internationalization in the Curriculum of Bachelor of Arts and Sciences in Social Data Science.
 
 tags:
-- Teaching development
+- Curriculum development
 - Data science education
 - Assessment in curriculum development
 - Interdisciplinarity
@@ -21,7 +21,7 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: DSE@CCMIR
+- name: Project Website
   url: http://ccmir.cite.hku.hk/index.php/developing-and-evaluating-interdisciplinarity-and-internationalization-in-data-science-education/
 - name: BASc(SDS) Program
   url: https://basc.hku.hk/sds/
