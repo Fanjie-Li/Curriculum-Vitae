@@ -71,7 +71,5 @@ slides: example
 ---
 
 {{% callout note %}}
-The Journal of the National Library of China is a Chinese core journal (CSSCI-indexed, IF: 1.746) and a prominent publication venue for library and information science research in China.
-
-This paper was also reprinted by the Information Center for Social Science of RUC and [Chinese Social Sciences Net](http://ex.cssn.cn/glx_tsqbx/201811/t20181122_4780166.shtml), and currently has [15 citations](https://kns.cnki.net/kcms/detail/search.aspx?sfield=cite&sKey=%e2%80%9c%e6%b7%b1%e9%98%85%e8%af%bb%e2%80%9d%e4%b9%8b%e4%ba%89%e8%ae%ae%e4%b8%8e%e5%86%8d%e6%80%9d%e8%80%83&code=BJJG201706003&dbcode=CJFD) (including journal articles and master's theses).
+This paper was reprinted by the Information Center for Social Science of RUC and [Chinese Social Sciences Net](http://ex.cssn.cn/glx_tsqbx/201811/t20181122_4780166.shtml), and currently has [16 citations](https://kns.cnki.net/kcms/detail/search.aspx?sfield=cite&sKey=%e2%80%9c%e6%b7%b1%e9%98%85%e8%af%bb%e2%80%9d%e4%b9%8b%e4%ba%89%e8%ae%ae%e4%b8%8e%e5%86%8d%e6%80%9d%e8%80%83&code=BJJG201706003&dbcode=CJFD) (including journal articles and master's theses).
 {{% /callout %}}
