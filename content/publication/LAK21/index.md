@@ -38,6 +38,8 @@ featured: true
 links:
 - name: Full Article
   url: https://dl.acm.org/doi/fullHtml/10.1145/3448139.3448206
+- name: Slide
+  url: media/LAK21/slide.pdf
 url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
