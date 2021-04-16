@@ -35,8 +35,6 @@ featured: true
 links:
 - name: ISMIR
   url: https://ismir.net/conferences/ismir2018.html
-- name: Abstract
-  url: https://fanjie-li.netlify.app/publication/conference-paper-3/
 url_pdf: media/ISMIR18/115_Paper.pdf
 # url_code: '#'
 # url_dataset: '#'
