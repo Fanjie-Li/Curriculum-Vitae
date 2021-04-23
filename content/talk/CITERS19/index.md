@@ -37,8 +37,8 @@ featured: false
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: Slide
-  url: media/CITERS19/slide.pdf
+# - name: Slide
+#   url: media/CITERS19/slide.pdf
 - name: CITERS 2019
   url: https://citers2019.cite.hku.hk/
 - name: Schedule
