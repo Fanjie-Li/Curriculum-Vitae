@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-url_pdf: media/master_thesis/thesis.pdf
+# url_pdf: media/master_thesis/thesis.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: ''
