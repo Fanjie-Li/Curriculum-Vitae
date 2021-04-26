@@ -25,6 +25,8 @@ links:
   url: http://ccmir.cite.hku.hk/index.php/developing-and-evaluating-interdisciplinarity-and-internationalization-in-data-science-education/
 - name: BASc(SDS) Program
   url: https://basc.hku.hk/sds/
+- name: Data Science Tutorials
+  url: https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
