@@ -23,7 +23,7 @@ bio: My research interests include learning analytics, educational data mining, 
 interests:
 - Learning Analytics
 - Educational Data Mining
-- Human-Centered Infomatics
+- Human-Centered Informatics
 - Affective Computing
 - Learning Sciences
 
