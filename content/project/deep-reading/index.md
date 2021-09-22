@@ -7,10 +7,9 @@ tags:
 - Deep reading
 - Reading engagement
 - Reading experience
-- Reading behaviour
-- Youth
+- Youth reading behaviour
 - Reading promotion
-- Conceptualization
+- Theoretical conceptualization
 date: "2017-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
