@@ -14,7 +14,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Hong Kong
+- name: University of Hong Kong
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -86,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-Fanjie Li is currently a research assistant in the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/). Her research interests include learning analytics, educational data science, human computer interaction, and learning sciences. 
+Fanjie Li worked as a research assistant in the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/). Her research interests include learning analytics, educational data science, human computer interaction, and learning sciences. 
 
 As an amateur designer, [photographer](https://www.instagram.com/chieh_owo/?hl=en), and Guzheng (a Chinese plucked zither) & Ukulele player, she is also interested in human-centered design, information visualization, and music computing.
