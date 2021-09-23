@@ -39,7 +39,7 @@ subtitle = ""
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Machine Learning"
+  name = "Data Science"
   description = " "
   
 [[feature]]
@@ -72,7 +72,7 @@ subtitle = ""
   name = "App Development"
   description = " "
 
-[[feature]]
+<!-- [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
@@ -88,7 +88,7 @@ subtitle = ""
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = " "
+  description = " " -->
 
 # Uncomment to use emoji icons.
 # [[feature]]
