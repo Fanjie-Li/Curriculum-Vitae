@@ -72,23 +72,23 @@ subtitle = ""
   name = "App Development"
   description = " "
 
-<!-- [[feature]]
-  icon = "html5"
-  icon_pack = "fab"
-  name = "HTML"
-  description = " "
+# [[feature]]
+#   icon = "html5"
+#   icon_pack = "fab"
+#   name = "HTML"
+#   description = " "
 
-[[feature]]
-  icon = "css3-alt"
-  icon_pack = "fab"
-  name = "CSS"
-  description = " "
+# [[feature]]
+#   icon = "css3-alt"
+#   icon_pack = "fab"
+#   name = "CSS"
+#   description = " "
 
-[[feature]]
-  icon = "js"
-  icon_pack = "fab"
-  name = "JavaScript"
-  description = " " -->
+# [[feature]]
+#   icon = "js"
+#   icon_pack = "fab"
+#   name = "JavaScript"
+#   description = " "
 
 # Uncomment to use emoji icons.
 # [[feature]]
