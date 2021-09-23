@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-15"
   date_end = "2021-06-30"
   description = """
-  Culture Computing and Multimodal Information Research Laboratory (Director: Dr. Xiao Hu), Faculty of Education
+  Culture Computing and Multimodal Information Research (CCMIR) Lab (Director: Dr. Xiao Hu), Faculty of Education
   """
 
 [[experience]]
