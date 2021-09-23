@@ -4,10 +4,12 @@ summary: Longitudinal field experiments that probe how students media multitaski
 tags:
 - Music
 - Learning
+- Media multitasking
+- Cognitive capacity
+- Music characteristics
+- Task load
 - Learning experience
 - Flow
-- Engagement
-- MIR system
 - User study
 - Naturalistic settings
 - Master thesis
