@@ -25,8 +25,6 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: Thesis
-  url: media/master_thesis/thesis.pdf
 - name: Moody
   url: media/master_thesis/cheatsheet.pdf
 - name: N-Back Test Demo
