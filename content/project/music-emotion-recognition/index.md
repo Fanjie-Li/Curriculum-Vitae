@@ -36,7 +36,9 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
+
+# In this project, we conducted a user experiment with Moody Web to collect users' listening behaviors, self-reported emotional responses to music, and peripheral physiological signals during music searching and listening. The dataset built from the user experiment will be used to build the music emotion recognition (MER) module of the music recommendation system.
 ---
 
 {{% callout note %}}
@@ -52,4 +54,3 @@ This project aims to enhance the emotion-aware music recommendation via physiolo
 **In Progress / Working Papers:**
 - Detecting Music-Induced Emotion Based on Acoustic Analysis and Physiological Sensing: A Multimodal Approach
 
-# In this project, we conducted a user experiment with Moody Web to collect users' listening behaviors, self-reported emotional responses to music, and peripheral physiological signals during music searching and listening. The dataset built from the user experiment will be used to build the music emotion recognition (MER) module of the music recommendation system.
