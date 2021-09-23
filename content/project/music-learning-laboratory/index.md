@@ -1,14 +1,15 @@
 ---
-title: Leveraging Background Music for Learning - An Interdisciplinary Approach
-summary: This is a study investigating the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. 
+title: Leveraging Background Music for Learning
+summary: A laboratory experiment that probes the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. 
 tags:
 - Music
 - Learning
 - Reading comprehension
-- Affect
 - Learning performance
-- Metacognition
 - Physiological signals
+- Affect
+- Metacognition
+
 date: "2019-09-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -23,8 +24,8 @@ links:
 #  icon_pack: fab
 - name: LAK 2019
   url: media/LAK19/p101-hu.pdf
-- name: LAK'19 Presentation
-  url: media/LAK19/slide.pdf
+# - name: LAK'19 Presentation
+#   url: media/LAK19/slide.pdf
 - name: Experiment Design (HI-RES)
   url: media/LAK19/LAK19-experiment-design.png
 - name: External Link
@@ -44,23 +45,19 @@ slides: example
 ---
 
 {{% callout note %}}
-Jul. 2018 - Present (Principal Investigator: Dr. Xiao Hu)
+Jul. 2018 - Mar. 2019 (Principal Investigator: Dr. Xiao Hu)
 {{% /callout %}}
 
 It is a common phenomenon for students to listen to background music while studying. However, there are mixed and inconclusive findings in the literature, leaving it unclear whether and in which circumstances background music can facilitate or hinder learning. In this project, we conducted a laboratory experiment to investigate the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. 
 
 
-**Major Contributions:**
+**Highlights:**
 
-◼︎ **Experiment facilitator** - Performed the experiment to collect:
+◼︎ A laboratoy experiment that collects:
 
 - a series of cognitive, metacognitive, and affective variables using self-reported measures;
 - a set of peripheral physiological signals (BVP, HR, IBI, EDA, TEMP) recorded by Empatica E4 wristband;
 - participants' eye movement recorded by the Tobii eye tracker.
 
-◼︎ **Data analysis:**
-
-- Physiological signal processing;
-- Statistical hypothesis testing.
-
+◼︎ Investigate how background music affects learning performance and engagement based on analytics at both behavioral and physiological levels.
 
