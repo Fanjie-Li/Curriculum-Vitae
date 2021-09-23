@@ -22,73 +22,73 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Advanced"
+  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Intermediate"
+  description = ""
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Advanced"
+  description = ""
 
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Intermediate"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistical Inference"
-  description = "Intermediate"
+  description = ""
 
 [[feature]]
   icon = "music"
   icon_pack = "fas"
   name = "Music Computing"
-  description = "Intermediate"
+  description = ""
+
+[[feature]]
+  icon = "chart-network"
+  icon_pack = "fas"
+  name = "InfoVis"
+  description = ""
 
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "UI/UX Design"
-  description = "Advanced"
-
-[[feature]]
-  icon = "swift"
-  icon_pack = "fab"
-  name = "Swift"
-  description = "Advanced"
+  description = ""
   
 [[feature]]
   icon = "app-store-ios"
   icon_pack = "fab"
-  name = "iOS App Dev"
-  description = "Intermediate"
+  name = "App Development"
+  description = ""
 
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
-  description = "Intermediate"
+  description = ""
 
 [[feature]]
   icon = "css3-alt"
   icon_pack = "fab"
   name = "CSS"
-  description = "Intermediate"
+  description = ""
 
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "Intermediate"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
