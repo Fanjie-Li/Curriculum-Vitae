@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   company_url = "http://ccmir.cite.hku.hk/index.php/people/"
   location = "Hong Kong SAR"
   date_start = "2020-03-15"
-  date_end = ""
+  date_end = "2020-06-30"
   description = """
-  Affiliation: Culture Computing and Multimodal Information Research Laboratory (Director: Dr. Xiao Hu), Faculty of Education
+  Culture Computing and Multimodal Information Research Laboratory (Director: Dr. Xiao Hu), Faculty of Education
   """
 
 [[experience]]
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_start = "2016-07-05"
   date_end = "2016-08-29"
   description = """
-  Affiliation: Social Sensing Lab (Director: Dr. Dong Wang), Department of Computer Science and Engineering
+  Social Sensing Lab (Director: Dr. Dong Wang), Department of Computer Science and Engineering
   """
 
 +++
