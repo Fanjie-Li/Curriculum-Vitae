@@ -34,61 +34,61 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = ""
+  description = " "
 
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = ""
+  description = " "
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistical Inference"
-  description = ""
+  description = " "
 
 [[feature]]
   icon = "music"
   icon_pack = "fas"
   name = "Music Computing"
-  description = ""
+  description = " "
 
 [[feature]]
-  icon = "chart-network"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "InfoVis"
-  description = ""
+  description = " "
 
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "UI/UX Design"
-  description = ""
+  description = " "
   
 [[feature]]
   icon = "app-store-ios"
   icon_pack = "fab"
   name = "App Development"
-  description = ""
+  description = " "
 
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
-  description = ""
+  description = " "
 
 [[feature]]
   icon = "css3-alt"
   icon_pack = "fab"
   name = "CSS"
-  description = ""
+  description = " "
 
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = ""
+  description = " "
 
 # Uncomment to use emoji icons.
 # [[feature]]
