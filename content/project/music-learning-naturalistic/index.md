@@ -1,9 +1,10 @@
 ---
 title: "Media Multitasking with Background Music: A Naturalistic Study"
-summary: Longitudinal field experiments that probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
+summary: Field experiments that probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
 tags:
 - Music
 - Learning
+- Naturalistic settings
 - Media multitasking
 - Cognitive capacity
 - Music characteristics
@@ -11,8 +12,8 @@ tags:
 - Learning experience
 - Flow
 - User study
-- Naturalistic settings
-- Master thesis
+- Music Recommender
+
 date: "2019-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -33,8 +34,8 @@ links:
   url: https://youtu.be/PQu51J9s4ss
 - name: Multitasking Test @ Github
   url: https://github.com/Fanjie-Li/Multitasking-Test
-- name: External Link
-  url: http://ccmir.cite.hku.hk/index.php/leverage-the-power-of-music-for-learning/
+# - name: External Link
+#   url: http://ccmir.cite.hku.hk/index.php/leverage-the-power-of-music-for-learning/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -63,7 +64,7 @@ gallery_item:
 ---
 
 {{% callout note %}}
-Feb. 2019 - Jun. 2021 (Supervisor: Dr. Xiao Hu)
+Feb. 2019 - Dec. 2019 (Master'sSupervisor: Dr. Xiao Hu)
 {{% /callout %}}
 
 This study aims to a) profile the music preference of learners in view of potential individual differences, and b) investigate the association between music characteristics and listeners’ learning experience in view of the potential moderating effect of learners’ traits and task load.
