@@ -5,7 +5,7 @@ summary: Developing and Evaluating Interdisciplinarity and Internationalization 
 tags:
 - Curriculum development
 - Data science education
-- Assessment in curriculum development
+- Curriculum assessment
 - Interdisciplinarity
 - Internationalization
 - Higher education
@@ -45,7 +45,9 @@ Aug. 2020 - Present (Principal Investigator: Dr. Xiao Hu)
 
 This teaching development project aims to enhance the interdisciplinary and internationalized learning experience in the B.A.Sc. Social Data Science program.
 
-**Duties:**
+**Ongoing research:**
+- A document analysis of the disciplinary breadth and depth of existing SDS curricula using Text Mining and Epistemic Network Analysis.
+
+**Teaching development:**
 - Developed the curriculum assessment framework and associated instruments;
-- Developed repositories of interdisciplinary cases, topics and datasets in social data science;
-- Designed protocols for assessing the interdisciplinarity of students’ capstone projects using learning analytics methods (e.g., Epistemic Network Analysis).
+- Developed repositories of interdisciplinary teaching materials (e.g., datasets, cases, [Jupyter notebook](https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program/blob/main/Wisconsin%20Breast%20Cancer%20Dataset%20(Sample%20Task).ipynb)) in Social Data Science.
