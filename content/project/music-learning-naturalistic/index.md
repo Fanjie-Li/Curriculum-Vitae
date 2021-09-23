@@ -1,5 +1,5 @@
 ---
-title: Media Multitasking with Background Music: A Naturalistic Study
+title: Media Multitasking with Background Music A Naturalistic Study
 summary: Longitudinal field experiments that probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
 tags:
 - Music
