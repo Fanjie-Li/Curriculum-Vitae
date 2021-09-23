@@ -37,7 +37,7 @@ links:
 - name: Slide
   url: media/iConference21/iConf_DataSciEd.pdf
 - name: iConference
-  url: https://ischools.org/iConference
+  url: https://ischools.org/iConference-2021-Summary
 url_pdf: media/iConference21/paper_404.pdf
 # url_code: '#'
 # url_dataset: '#'
