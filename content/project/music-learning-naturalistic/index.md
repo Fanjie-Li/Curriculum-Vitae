@@ -7,12 +7,11 @@ tags:
 - Naturalistic settings
 - Media multitasking
 - Cognitive capacity
-- Music characteristics
 - Task load
 - Learning experience
 - Flow
 - User study
-- Music Recommender
+- Music Computing
 
 date: "2019-12-15T00:00:00Z"
 
