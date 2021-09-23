@@ -53,11 +53,11 @@ It is a common phenomenon for students to listen to background music while study
 
 **Highlights:**
 
-◼︎ A laboratoy experiment that collects:
+A laboratoy experiment that collects:
 
 - a series of cognitive, metacognitive, and affective variables using self-reported measures;
 - a set of peripheral physiological signals (BVP, HR, IBI, EDA, TEMP) recorded by Empatica E4 wristband;
 - participants' eye movement recorded by the Tobii eye tracker.
 
-◼︎ Investigate how background music affects learning performance and engagement based on analytics at both behavioral and physiological levels.
+Investigate how background music affects learning performance and engagement based on analytics at both behavioral and physiological levels.
 
