@@ -40,7 +40,9 @@ slides: example
 Jul. 2016 - Jun. 2018 (Principal Investigator: Prof. Guihua Li)
 {{% /callout %}}
 
-This is a subproject of a NSSFC-funded study (No. 16ATQ005) which focuses on youth reading behaviour in the Omni-media Era and strategies for reading promotion.
+The advent of digital reading has aroused several pedagogical concerns, including whether such digital environments hinder adolescents' involvement in *deep reading*. We approach this question through reconsidering the controversies in the theory of deep reading, with a specific focus on its implications for encouraging deep reading in digital environments. 
+
+In this study, we identified varying perspectives on deep reading through a systematic literature review, compiled an expert survey based on findings from the literature review, and performed K-Means clustering on the survey responses. This study revealed three opinion clusters, with varying beliefs on (i) the nature of deep reading and (ii) whether deep reading depends on the reading media (i.e., printed versus digital). 
 
 **Highlights:**
 - Discussed (i) varying perspectives on the conceptualization of *deep reading* based on a systematic literature review and K-Means clustering of expert survey responses and 
