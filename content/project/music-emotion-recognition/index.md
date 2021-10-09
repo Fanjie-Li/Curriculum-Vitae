@@ -45,7 +45,9 @@ links:
 Jul. 2017 - Jun. 2021 (Principal Investigator: Dr. Xiao Hu)
 {{% /callout %}}
 
-This project aims to enhance the emotion-aware music recommendation via physiological sensing. 
+The state-of-the-art emotion-based music information retrieval (MIR) systems have focused on modelling music emotion from acoustic music features. This project aims to further personalize emotion-aware music recommendation via incorporating user-related modalities (i.e., physiological signals).
+
+In this project, we conducted a user experiment that simulated a real-life music discovery scenario. The dataset built from this experiment will be used to build the music emotion recognition (MER) module of the music recommendation system.
 
 **Highlights:**
 - Designed and performed a user experiment to build a dataset with synchronized physiological signals (BVP, HR, IBI, EDA, TEMP) and user-labelled music-induced emotion;
