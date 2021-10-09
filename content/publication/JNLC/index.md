@@ -22,7 +22,7 @@ publication_short: In *国家图书馆学刊*
 abstract: Deep reading is a hot concept of much debates. This study aims to discuss the major controversies in the conceptualization of deep reading and its implications for the strategy design and outcome assessment of reading promotion programs. Based on a systematic literature review and K-Means clustering of the expert survey responses, this paper argues that the essential conflict of opinions lies in researchers' contrasting views of the mechanism and expected values of the deep reading behaviour. We propound that deep reading is an intersubjective dialogue which is characterized by (i) the deep engagement of readers and (ii) reading as a social process. Such deep reading engagement satisfies the social-emotional needs of readers and therefore motivate them to read.
 
 # Summary. An optional shortened abstract.
-summary: In Journal of the National Library of China. 📑 Reprinted in the Information Center for Social Science of RUC and Chinese Social Sciences Net.
+summary: In Journal of the National Library of China. 📑 Reprinted by the Information Center for Social Science of RUC and Chinese Social Sciences Net.
 
 tags:
 - Deep reading
