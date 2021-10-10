@@ -47,7 +47,7 @@ In this project, we identified varying perspectives on *deep reading* through a 
 **Highlights:**
 - Discussed (i) varying perspectives on the conceptualization of *deep reading* based on a systematic literature review and K-Means clustering of expert survey responses and 
 - (ii) the mechanisms underlying *deep reading* in terms of (a) the **cognitive-affective process** inside the reading brain and (b) **reading as a social process**; [[Research Output]](https://fanjie-li.netlify.app/publication/jnlc/)
-<img src="/static/media/JNLC/DeepReading.png" alt="deep-reading" width="200"/>
+<img src="https://fanjie-li.netlify.app/project/deep-reading/DeepReading.png" alt="deep-reading" width="200"/>
 
 **Related Projects:**
 - Coded online discussions in a virtual book club for a grounded theory study regarding *youth reading engagement*;
