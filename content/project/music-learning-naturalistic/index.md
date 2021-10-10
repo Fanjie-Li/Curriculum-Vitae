@@ -66,7 +66,7 @@ gallery_item:
 Feb. 2019 - Dec. 2019 (Master's thesis; Supervisor: Dr. Xiao Hu)
 {{% /callout %}}
 
-This study goes beyond controlled laboratory experiments that dominated previous studies, and conducted a field experiment to probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
+Focusing on one of the most common media multitasking behaviors among students, namely studying with background music (BM), this study investigated how characteristics of secondary media (music) link to students experience of their primary learning tasks (e.g., perceived distraction, task engagement) as well as the underlying individual and contextual differences. Going beyond controlled laboratory experiments that dominated previous studies, we conducted a *naturalistic* field experiment to probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
 
 
 **Highlights:**
@@ -75,6 +75,9 @@ This study goes beyond controlled laboratory experiments that dominated previous
 - Collected users’ motion data (e.g., sedentary state), heart rate, etc. using the Fitbit Versa smartwatch.
 - Implemented a set of computer-based cognitive tests for assessing participants’ working memory capacity and multitasking ability
 - Analysed relationships among music-, context-, and learner-related variables using statistical methods.
+- BM interventions may not exert the same effect for all participants or in all learning contexts.
+- Correlations between learning experience and BM characteristics (e.g., loudness, tempo, timbre) emerged when participants’ task load or cognitive capacity was considered.
+- Findings provide support for and enriched the classic theoretical hypotheses in the literature (i.e., arousal-mood hypothesis, irrelevant sound effect) and suggest links to the challenge-skill balance hypothesis in flow theory.
 
 **In Progress / Working Papers:**
 - Optimizing Background Music for Learning: The Role of Music Characteristics, Task Load, and Learners’ Cognitive Capacity
