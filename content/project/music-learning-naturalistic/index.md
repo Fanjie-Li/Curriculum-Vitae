@@ -66,7 +66,9 @@ gallery_item:
 Feb. 2019 - Dec. 2019 (Master's thesis; Supervisor: Dr. Xiao Hu)
 {{% /callout %}}
 
-Focusing on one of the most common media multitasking behaviors among students, namely studying with background music (BM), this study investigated how characteristics of secondary media (music) link to students experience of their primary learning tasks (e.g., perceived distraction, task engagement) as well as the underlying individual and contextual differences. Going beyond controlled laboratory experiments that dominated previous studies, we conducted a *naturalistic* field experiment to probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
+Focusing on one of the most common media multitasking behaviors among students, namely studying with background music (BM), this study investigated how characteristics of secondary media (music) link to students experience of their primary learning tasks (e.g., perceived distraction, task engagement) as well as the underlying individual and contextual differences. 
+
+Going beyond controlled laboratory experiments that dominated previous studies, we conducted a *naturalistic* field experiment to probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
 
 
 **Highlights:**
