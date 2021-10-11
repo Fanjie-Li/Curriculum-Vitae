@@ -72,7 +72,7 @@ Going beyond controlled laboratory experiments that dominated previous studies, 
 
 
 **Highlights:**
-- Designed and developed the Moody music app for behavioral tracking and experience sampling;
+- Designed and developed the [Moody music app](https://fanjie-li.netlify.app/media/master_thesis/cheatsheet.pdf) for behavioral tracking and experience sampling;
 - Extracted acoustic music features (e.g., rhythm, timbre) via music processing techniques, and estimated music emotion in the arousal-valence space via Support Vector Machines (SVM);
 - Collected users’ motion data (e.g., sedentary state), heart rate, etc. using the Fitbit Versa smartwatch.
 - Implemented a set of computer-based cognitive tests for assessing participants’ working memory capacity and multitasking ability
