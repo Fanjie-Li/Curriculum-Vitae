@@ -76,7 +76,7 @@ Going beyond controlled laboratory experiments that dominated previous studies, 
 - Extracted acoustic music features (e.g., rhythm, timbre) via music processing techniques, and estimated music emotion in the arousal-valence space via Support Vector Machines (SVM);
 - Collected users’ motion data (e.g., sedentary state), heart rate, etc. using the Fitbit Versa smartwatch.
 - Implemented a set of computer-based cognitive tests for assessing participants’ working memory capacity and multitasking ability
-- Analysed relationships among music-, context-, and learner-related variables using statistical methods.
+- Analysed relationships among music-, context-, and learner-related variables using statistical methods (e.g., repeated measures correlation, MANOVA, discriminant function analysis, Wilcoxon rank-sum test, Pearson's Chi-Square test).
 - BM interventions may not exert the same effect for all participants or in all learning contexts.
 - Correlations between learning experience and BM characteristics (e.g., loudness, tempo, timbre) emerged when participants’ task load or cognitive capacity was considered.
 - Findings provide support for and enriched the classic theoretical hypotheses in the literature (i.e., arousal-mood hypothesis, irrelevant sound effect) and suggest links to the challenge-skill balance hypothesis in flow theory.
