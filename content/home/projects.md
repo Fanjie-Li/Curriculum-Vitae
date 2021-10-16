@@ -26,17 +26,17 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Music"
-    tag = "Music"
-  
-  [[content.filter_button]]
     name = "Learning with media"
     tag = "Learning with media"
 
   [[content.filter_button]]
     name = "Curriculum development"
     tag = "Curriculum development"
-
+    
+  [[content.filter_button]]
+    name = "Music"
+    tag = "Music"
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
