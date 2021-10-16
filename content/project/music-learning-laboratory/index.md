@@ -3,7 +3,7 @@ title: Leveraging Background Music for Learning
 summary: A laboratory experiment that probes the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension. 
 tags:
 - Music
-- Learning
+- Learning with media
 - Reading comprehension
 - Learning performance
 - Physiological signals
