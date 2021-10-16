@@ -3,7 +3,7 @@ title: "Media Multitasking with Background Music: A Naturalistic Study"
 summary: Field experiments that probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
 tags:
 - Music
-- Learning
+- Learning with media
 - Naturalistic settings
 - Media multitasking
 - Cognitive capacity
