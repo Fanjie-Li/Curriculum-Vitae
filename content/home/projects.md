@@ -30,8 +30,8 @@ subtitle = ""
     tag = "Music"
   
   [[content.filter_button]]
-    name = "Learning"
-    tag = "Learning"
+    name = "Learning with media"
+    tag = "Learning with media"
 
   [[content.filter_button]]
     name = "Curriculum development"
