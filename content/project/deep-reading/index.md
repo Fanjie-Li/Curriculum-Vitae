@@ -3,13 +3,13 @@ title: "Deep Reading: Theoretical Conceptualization and Implications for Practic
 summary: This study discussed the mechanisms underlying deep reading in terms of (a) the cognitive-affective process inside the reading brain and (b) reading as a social process.
 
 tags:
-- Learning
 - Deep reading
 - Reading engagement
 - Reading experience
 - Youth reading behaviour
 - Reading promotion
 - Theoretical conceptualization
+- Learning with media
 date: "2017-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -40,7 +40,7 @@ slides: example
 Jul. 2016 - Jun. 2018 (Principal Investigator: Prof. Guihua Li)
 {{% /callout %}}
 
-The advent of digital reading has aroused several pedagogical concerns, including whether such digital environments hinder adolescents' involvement in *deep reading*. We approach this question through reconsidering the controversies in the theory of *deep reading*, with a specific focus on its implications for encouraging deep reading in today's media-rich environments. 
+The advent of digital reading has aroused several pedagogical concerns, including whether *fragmented reading* and distractive media in digital environments hinder adolescents' involvement in *deep reading*. We approach this question through reconsidering the theory and conceptualization of *deep reading*, with a specific focus on its implications for encouraging deep reading in today's media-rich environments. 
 
 In this project, we identified varying perspectives on *deep reading* through a systematic literature review, compiled an expert survey on points of contention in the literature, and performed K-Means clustering on the survey responses. The study revealed three opinion clusters, with varying beliefs on (i) the nature of deep reading and (ii) whether deep reading depends on the reading media (i.e., printed versus digital). 
 
