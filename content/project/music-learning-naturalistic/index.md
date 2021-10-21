@@ -75,7 +75,7 @@ Going beyond controlled laboratory experiments that dominated previous studies, 
 - Designed and developed the [Moody music app](https://fanjie-li.netlify.app/media/master_thesis/cheatsheet.pdf) for behavioral tracking and experience sampling;
 - Extracted acoustic music features (e.g., rhythm, timbre) via music processing techniques, and estimated music emotion in the arousal-valence space via Support Vector Machines (SVM);
 - Collected users’ motion data (e.g., sedentary state), heart rate, etc. using the Fitbit Versa smartwatch;
-- Implemented a set of computer-based cognitive tests for assessing participants’ [working memory capacity](https://youtu.be/4Cn03gJ0nNA) and [multitasking ability](https://youtu.be/PQu51J9s4ss) ([🔗 GitHub](https://github.com/Fanjie-Li/Multitasking-Test));
+- Implemented a set of computer-based cognitive tests for assessing participants’ [working memory capacity](https://youtu.be/4Cn03gJ0nNA) and [multitasking ability](https://youtu.be/PQu51J9s4ss) ([🔗GitHub](https://github.com/Fanjie-Li/Multitasking-Test));
 - Analysed relationships among music-, context-, and learner-related variables using statistical methods;
 - BM interventions may not exert the same effect for all participants or in all learning contexts;
 - Correlations between learning experience and BM characteristics (e.g., loudness, tempo, timbre) emerged when participants’ task load or cognitive capacity was considered;
