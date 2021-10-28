@@ -49,5 +49,5 @@ This teaching development project aims to enhance the interdisciplinary and inte
 - A document analysis of the disciplinary breadth and depth of existing SDS curricula using Text Mining and Epistemic Network Analysis.
 
 **Teaching development:**
-- Developed the curriculum assessment framework (e.g., curriculum, learning design, graduate attributes) and associated instruments;
+- Developed the curriculum assessment framework (e.g., assessment of curriculum structure, learning design, graduate attributes) and associated instruments;
 - Developed repositories of interdisciplinary teaching materials (e.g., datasets, cases, [Jupyter notebook](https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program/blob/main/Wisconsin%20Breast%20Cancer%20Dataset%20(Sample%20Task).ipynb)) in Social Data Science.
