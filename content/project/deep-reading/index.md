@@ -22,8 +22,8 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: Journal Article
-  url: https://fanjie-li.netlify.app/publication/jnlc/
+# - name: Journal Article
+#   url: https://fanjie-li.netlify.app/publication/jnlc/
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
