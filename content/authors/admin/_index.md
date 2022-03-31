@@ -32,10 +32,10 @@ education:
   - course: M.Sc.LIM (Data Science)
     institution: University of Hong Kong
     year: 2020
-  - course: B.Eng. Software Engineering
+  - course: B.Eng. 
     institution: Sichuan University
     year: 2018
-  - course: B.Mgt. Information Resource Management
+  - course: B.Mgt. 
     institution: Sichuan University
     year: 2018
 
