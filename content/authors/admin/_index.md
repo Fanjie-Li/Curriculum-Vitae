@@ -51,9 +51,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fanjie_li
-# - icon: linkedin-in
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/fanjie-li-216bb3156/
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fanjie-li-216bb3156/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=CAC5-U4AAAAJ&hl=en&oi=sra
