@@ -48,9 +48,9 @@ social:
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #  link: 'mailto:fanjie@connect.hku.hk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fanjie_li
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/fanjie_li
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/fanjie-li-216bb3156/
