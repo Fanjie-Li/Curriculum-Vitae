@@ -22,7 +22,7 @@ publication_short: In *复合阅读行为及阅读推广对策研究*
 abstract: 全媒体环境深度改造着阅读行为，“深阅读危机”已引起世界范围的广泛关注。复合阅读行为是新技术下个体的自我适应和自我矫正，以其媒介复合、行为复合、价值复合特征发展为一种新型深阅读行为，并正在带来阅读文化的改变。本书聚焦“读者-阅读行为-阅读环境”间的关系，基于对阅读行为现状的多重调查，就复合阅读形成机理和社会情境等问题进行梳理和探讨，并提出融合式阅读推广及其实践形态。从而系统构建了“复合阅读行为”这一阅读行为新理论，为全民阅读工程创新提供理论支撑。———《复合阅读行为及阅读推广对策研究》(Research on Hybrid Reading and Reading Promotion Strategy)  
 
 # Summary. An optional shortened abstract.
-summary: Hybrid Reading: A New Form of Deep Reading Behavior in the Omni-Media Era [Translated title] 📖 Book Chapter
+summary: Hybrid Reading - A New Form of Deep Reading Behavior in the Omni-Media Era [Translated title] 📖 Book Chapter
 
 tags:
 - Deep reading
