@@ -32,13 +32,13 @@ education:
   courses:
   - course: PhD
     institution: New York University
-    year: 
+    year: 2022 - 2027
   - course: M.Sc
     institution: University of Hong Kong
-    year: 2020
-  - course: B.Mgt and B.Eng 
+    year: 2018 - 2020
+  - course: B.Mgt | B.Eng 
     institution: Sichuan University
-    year: 2018
+    year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
