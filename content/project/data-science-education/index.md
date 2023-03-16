@@ -39,9 +39,9 @@ links:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Aug. 2020 - Present (Principal Investigator: Dr. Xiao Hu)
-{{% /callout %}}
+{{% /callout %}} -->
 
 This teaching development project aims to enhance the interdisciplinary and internationalized learning experience in the B.A.Sc. Social Data Science program.
 
@@ -50,4 +50,4 @@ This teaching development project aims to enhance the interdisciplinary and inte
 
 **Teaching development:**
 - A set of criteria and instruments adapted from the literature for assessing interdisciplinarity and internationalization in curriculum design.
-- A repository of cases, examples, datasets in social data science that incorporates interdisciplinary and international lenses, along with corresponding teaching strategies in using these materials (e.g., [datasets/cases](https://woolly-asphalt-79b.notion.site/Repository-of-cases-examples-datasets-65c95d3aab5d452a8bd5a6c0c66e9fef), [Jupyter notebook](https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program/blob/main/Wisconsin%20Breast%20Cancer%20Dataset%20(Sample%20Task).ipynb)))
+- A repository of cases, examples, datasets in social data science that incorporates interdisciplinary and international lenses, along with corresponding teaching strategies in using these materials (e.g., [datasets/cases](https://woolly-asphalt-79b.notion.site/Repository-of-cases-examples-datasets-65c95d3aab5d452a8bd5a6c0c66e9fef), [Jupyter notebook](https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program/blob/main/Wisconsin%20Breast%20Cancer%20Dataset%20(Sample%20Task).ipynb))
