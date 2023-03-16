@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Conference Reviewer"
   company = "LAK 2023"
-  company_url = ""
+  company_url = "https://www.solaresearch.org/events/lak/lak23/"
   location = ""
   date_start = "2022-10-11"
   date_end = "2022-10-31"
