@@ -1,5 +1,5 @@
 ---
-title: "复合阅读 全媒体时代的新型深阅读行为"
+title: "复合阅读: 全媒体时代的新型深阅读行为"
 authors:
 - Guihua Li
 - admin
@@ -31,6 +31,7 @@ tags:
 - Reading experience
 - Reading promotion
 - Reading in the digital era
+
 featured: false
 
 links:
