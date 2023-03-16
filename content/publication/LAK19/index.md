@@ -29,10 +29,9 @@ tags:
 - Background music
 - Reading comprehension
 - Affect
-- Learning performance
 - Metacognition
 - Physiological signals
-featured: true
+featured: false
 
 links:
 # - name: Slide
