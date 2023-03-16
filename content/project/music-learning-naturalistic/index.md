@@ -58,9 +58,9 @@ gallery_item:
   caption: Mosaic Plot
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Feb. 2019 - Dec. 2019 (Master's thesis; Supervisor: Dr. Xiao Hu)
-{{% /callout %}}
+{{% /callout %}} -->
 
 Automated background music (BM) selection for studying has been difficult in that, the BM should not only foster positive learning experience (e.g., engagement) but also avoid impairing cognitive processing (e.g., distraction). This long-standing question is linked to existing theories that support each claim. For example, the mood-arousal hypothesis argues that BM can benefit learning through modulating learners’ emotion while the cognitive load theory explains that BM might be distracting for creating redundant information.
 
