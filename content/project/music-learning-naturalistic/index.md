@@ -1,18 +1,14 @@
 ---
-title: "Media Multitasking with Background Music: A Naturalistic Study"
-summary: Field experiments that probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
+title: "Background Music for Studying: A Naturalistic Study"
+summary: Field experiments that probe how students study with music in the background, in light of cognitive-affective theory of learning with media.
 tags:
-- Music
 - Learning with media
 - Naturalistic settings
-- Media multitasking
 - Cognitive capacity
 - Task load
 - Learning experience
-- Flow
-- User study
-- Music Computing
-
+- Flow theory
+- Human-centered music information retrieval (HCMIR)
 date: "2019-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -66,24 +62,15 @@ gallery_item:
 Feb. 2019 - Dec. 2019 (Master's thesis; Supervisor: Dr. Xiao Hu)
 {{% /callout %}}
 
-Focusing on one of the most common media multitasking behaviors among students, namely studying with background music (BM), this study investigated how characteristics of secondary media (music) link to students experience of their primary learning tasks (e.g., perceived distraction, task engagement) as well as the underlying individual and contextual differences. 
+Automated background music (BM) selection for studying has been difficult in that, the BM should not only foster positive learning experience (e.g., engagement) but also avoid impairing cognitive processing (e.g., distraction). This long-standing question is linked to existing theories that support each claim. For example, the mood-arousal hypothesis argues that BM can benefit learning through modulating learners’ emotion while the cognitive load theory explains that BM might be distracting for creating redundant information.
 
-Going beyond controlled laboratory experiments that dominated previous studies, we conducted a *naturalistic* field experiment to probe how students media multitasking with background music, in light of cognitive-affective theory of learning with media.
-
+Through incorporating HCMIR methods and theoretical insights from existing lab-based BM studies, we conducted _naturalistic_ user experiments to understand how students perceive the effects of BM when performing their everyday learning tasks with BM being played by a novel mobile music app (Moody).
 
 **Highlights:**
-- Designed and developed the [Moody music app](https://fanjie-li.netlify.app/media/master_thesis/cheatsheet.pdf) for behavioral tracking and experience sampling;
-- Extracted acoustic music features (e.g., rhythm, timbre) via music processing techniques, and estimated music emotion in the arousal-valence space via Support Vector Machines (SVM);
-- Collected users’ motion data (e.g., sedentary state), heart rate, etc. using the Fitbit Versa smartwatch;
-- Implemented a set of computer-based cognitive tests for assessing participants’ [working memory capacity](https://youtu.be/4Cn03gJ0nNA) and [multitasking ability](https://youtu.be/PQu51J9s4ss) ([🔗GitHub](https://github.com/Fanjie-Li/Multitasking-Test));
-- Analysed relationships among music-, context-, and learner-related variables using statistical methods;
-- BM interventions may not exert the same effect for all participants or in all learning contexts;
-- Correlations between learning experience and BM characteristics (e.g., loudness, tempo, timbre) emerged when participants’ task load or cognitive capacity was considered;
-- Findings provide support for and enriched the classic theoretical hypotheses in the literature (i.e., arousal-mood hypothesis, irrelevant sound effect) and suggest links to the challenge-skill balance hypothesis in flow theory.
-
-**In Progress / Working Papers:**
-- Optimizing Background Music for Learning: The Role of Music Characteristics, Task Load, and Learners’ Cognitive Capacity
-- Profiling the Music Preference of Learners: A Field Study
+- The availability of a self-developed [Moody music app](https://fanjie-li.netlify.app/media/master_thesis/cheatsheet.pdf) enables both music listening behavior tracking and experience sampling, allowing us to go beyond laboratory experiments that dominated existing BM studies and achieve a higher level of ecological validity.
+- This study also leverages audio processing techniques developed in the field of music information retrieval to extract fine-grained music features. Despite being under-represented in the existing BM studies, the extracted timbral features (e.g., brightness, white noisiness) were found to link to perceived engagement in certain (but not all) conditions.
+- Correlations between learning experience and BM characteristics (e.g., loudness, tempo, timbre) emerged when participants’ task load or cognitive capacity (e.g., [working memory capacity](https://youtu.be/4Cn03gJ0nNA), [multitasking ability](https://youtu.be/PQu51J9s4ss)) was considered.
+- Findings provide support for and enriched the classic theoretical hypotheses in the literature (i.e., arousal-mood hypothesis, irrelevant sound effect) and suggest links to the challenge-skill balance hypothesis in the flow theory.
 
 **Gallery:**
 
