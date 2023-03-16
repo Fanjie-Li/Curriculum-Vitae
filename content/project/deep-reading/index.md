@@ -22,7 +22,7 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: PI-Dr Huihua Li
+- name: PI-Dr Guihua Li
   url: https://ggglxy.scu.edu.cn/info/1344/3657.htm
 # url_pdf: ""
 # url_slides: ""
