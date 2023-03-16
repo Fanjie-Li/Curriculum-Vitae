@@ -1,5 +1,5 @@
 ---
-title: "Detecting Music-Induced Emotion Based on Acoustic Analysis and Physiological Sensing A Multimodal Approach"
+title: "Detecting Music-Induced Emotion Based on Acoustic Analysis and Physiological Sensing: A Multimodal Approach"
 authors:
 - Xiao Hu
 - admin
