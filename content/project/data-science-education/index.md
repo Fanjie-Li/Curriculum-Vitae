@@ -27,6 +27,8 @@ links:
   url: https://basc.hku.hk/sds/
 - name: Data Science Tutorials
   url: https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program
+- name: PI-Dr Xiao Hu
+  url: https://web.edu.hku.hk/faculty-academics/xiaoxhu
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
