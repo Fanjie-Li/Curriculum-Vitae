@@ -5,7 +5,7 @@ summary: Developing and Evaluating Interdisciplinarity and Internationalization 
 tags:
 - Curriculum development
 - Data science education
-- Curriculum assessment
+- Curriculum analytics
 - Interdisciplinarity
 - Internationalization
 - Higher education
@@ -22,7 +22,7 @@ links:
 # - icon: twitter
 #  icon_pack: fab
 - name: Project Website
-  url: http://ccmir.cite.hku.hk/index.php/developing-and-evaluating-interdisciplinarity-and-internationalization-in-data-science-education/
+  url: https://woolly-asphalt-79b.notion.site/Developing-and-Evaluating-Interdisciplinarity-and-Internationalization-in-the-Curriculum-of-Bachelor-f91498c99fea4aef83ab22a1c67094f1
 - name: BASc(SDS) Program
   url: https://basc.hku.hk/sds/
 - name: Data Science Tutorials
@@ -49,5 +49,5 @@ This teaching development project aims to enhance the interdisciplinary and inte
 - A document analysis of the disciplinary breadth and depth of existing SDS curricula using Text Mining and Epistemic Network Analysis.
 
 **Teaching development:**
-- Developed the curriculum assessment framework (e.g., assessment of curriculum structure, learning design, graduate attributes) and associated instruments;
-- Developed repositories of interdisciplinary teaching materials (e.g., datasets, cases, [Jupyter notebook](https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program/blob/main/Wisconsin%20Breast%20Cancer%20Dataset%20(Sample%20Task).ipynb)) in Social Data Science.
+- A set of criteria and instruments adapted from the literature for assessing interdisciplinarity and internationalization in curriculum design.
+- A repository of cases, examples, datasets in social data science that incorporates interdisciplinary and international lenses, along with corresponding teaching strategies in using these materials (e.g., [datasets/cases](https://woolly-asphalt-79b.notion.site/Repository-of-cases-examples-datasets-65c95d3aab5d452a8bd5a6c0c66e9fef), [Jupyter notebook](https://github.com/Fanjie-Li/Tutorials-for-the-BASc-SDS-Program/blob/main/Wisconsin%20Breast%20Cancer%20Dataset%20(Sample%20Task).ipynb)))
