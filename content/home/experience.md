@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-15"
   date_end = "2021-06-30"
   description = """
-  Culture Computing and Multimodal Information Research (CCMIR) Lab (Director: Dr. Xiao Hu), Faculty of Education
+  Culture Computing and Multimodal Information Research (CCMIR) Lab
   """
 
 [[experience]]
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_start = "2016-07-05"
   date_end = "2016-08-29"
   description = """
-  Social Sensing Lab (Director: Dr. Dong Wang), Department of Computer Science and Engineering
+  Social Sensing Lab, Department of Computer Science and Engineering
   """
 
 +++
