@@ -34,21 +34,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Conference Reviewer"
-  company = "ISMIR 2021"
-  company_url = "https://ismir2021.ismir.net/"
+  company = "LAK 2023"
+  company_url = ""
   location = ""
-  date_start = "2021-05-01"
-  date_end = "2021-06-01"
-  description = """The 22nd International Society for Music Information Retrieval Conference (ISMIR 2021)"""
+  date_start = "2022-09-12"
+  date_end = "2022-12-31"
+  description = """The International Learning Analytics and Knowledge Conference"""
 
 [[experience]]
   title = "Conference Reviewer"
-  company = "ISMIR 2020"
+  company = "ISMIR 2020, 2021, 2022"
   company_url = "https://www.ismir2020.net/"
   location = ""
   date_start = "2020-05-01"
   date_end = "2020-06-01"
-  description = """The 21st International Society for Music Information Retrieval Conference (ISMIR 2020)"""
+  description = """The International Society for Music Information Retrieval Conference"""
 
 [[experience]]
   title = "Summer Intern"
