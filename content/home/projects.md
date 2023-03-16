@@ -30,12 +30,12 @@ subtitle = ""
     tag = "Learning with media"
 
   [[content.filter_button]]
-    name = "Curriculum development"
-    tag = "Curriculum development"
+    name = "Curriculum analytics"
+    tag = "Curriculum analytics"
     
   [[content.filter_button]]
-    name = "Music"
-    tag = "Music"
+    name = "Multimodal analytics"
+    tag = "Multimodal analytics"
     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
