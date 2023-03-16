@@ -33,7 +33,7 @@ tags:
 - Learning experience
 - Field experiment
 - Learning environment
-featured: true
+featured: false
 
 links:
 - name: Full Article
