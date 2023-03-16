@@ -1,5 +1,5 @@
 ---
-title: "Deep Reading: Theoretical Conceptualization and Implications for Practices"
+title: "Deep Reading in the Omnimedia Era"
 summary: This study discussed the mechanisms underlying deep reading in terms of (a) the cognitive-affective process inside the reading brain and (b) reading as a social process.
 
 tags:
