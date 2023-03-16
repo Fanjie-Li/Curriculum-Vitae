@@ -10,34 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hong Kong
-  url: ""
+- name: NYU-LEARN
+  url: "https://steinhardt.nyu.edu/learn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning analytics, educational data science, human-centered informatics, affective computing, and learning sciences.
+bio: 
 
 interests:
 - Learning Analytics
-- Educational Data Science
 - Human-Centered Informatics
+- Design Research
 - Affective Computing
-- Learning Sciences
+
 
 education:
   courses:
+  - course: PhD
+    institution: New York University
+    year: 2022 - Present
   - course: M.Sc.LIM (Data Science)
     institution: University of Hong Kong
-    year: 2020
-  - course: B.Eng. 
+    year: 2018 - 2020
+  - course: B.Eng., B.Mgt. 
     institution: Sichuan University
-    year: 2018
-  - course: B.Mgt. 
-    institution: Sichuan University
-    year: 2018
+    year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,16 +47,16 @@ social:
 # - icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#  link: 'mailto:fanjie@connect.hku.hk'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/fanjie_li
+#  link: 'mailto:'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/fanjie_li
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/fanjie-li-216bb3156/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=CAC5-U4AAAAJ&hl=en&oi=sra
+  link: https://scholar.google.com/citations?user=Q2UMreIAAAAJ&hl=en&oi=ao
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0001-7016-6354/print
@@ -86,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-Fanjie Li has worked as a research assistant in the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/). Her research interests include learning analytics, human computer interaction, affective computing, and learning sciences. 
+Hello 👋 I am a doctoral student at the NYU Learning Analytics and Research Network ([NYU-LEARN](https://steinhardt.nyu.edu/learn)). My work encompasses human-centered design and implementation of learning analytics and the research and development of actionable, conversational analytics interfaces. 
 
-As an amateur designer, [photographer](https://www.instagram.com/chieh_owo/?hl=en), and Guzheng (a Chinese plucked zither) & Ukulele player, she is also interested in human-centered design, information visualization, and music computing.
+Before joining NYU-LEARN, I worked as a research assistant at the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/), with a focus on the R&D of user-centered, context-aware music recommenders through physiological sensing, music (audio) processing, and UX research.
