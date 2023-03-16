@@ -22,8 +22,8 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-# - name: Journal Article
-#   url: https://fanjie-li.netlify.app/publication/jnlc/
+- name: PI-Dr Huihua Li
+  url: https://ggglxy.scu.edu.cn/info/1344/3657.htm
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
@@ -36,9 +36,9 @@ links:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Jul. 2016 - Jun. 2018 (Principal Investigator: Prof. Guihua Li)
-{{% /callout %}}
+{{% /callout %}} -->
 
 The advent of digital reading has aroused several pedagogical concerns, including whether *fragmented reading* and distractive media in digital environments hinder adolescents' involvement in *deep reading*. We approach this question through reconsidering the theory and conceptualization of *deep reading*, with a specific focus on its implications for encouraging deep reading in today's media-rich environments. 
 
@@ -49,6 +49,6 @@ In this project, we identified varying perspectives on *deep reading* through a 
 - (ii) the mechanisms underlying *deep reading* in terms of (a) the **cognitive-affective process** inside the reading brain and (b) **reading as a social process**; [[Research Output]](https://fanjie-li.netlify.app/publication/jnlc/)
 <img src="https://fanjie-li.netlify.app/project/deep-reading/DeepReading.png" alt="deep-reading"/>
 
-**Related Projects:**
+<!-- **Related Projects:**
 - Coded online discussions in a virtual book club for a grounded theory study regarding *youth reading engagement*;
-- Participated in the design and implementation of a reading planner: [EverRead](https://youtu.be/_NC4wBKcnac) (supported by the National College Students' Innovation and Entrepreneurship Training Program).
+- Participated in the design and implementation of a reading planner: [EverRead](https://youtu.be/_NC4wBKcnac) (supported by the National College Students' Innovation and Entrepreneurship Training Program). -->
