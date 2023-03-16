@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ismir2020.net/"
   location = ""
   date_start = "2020-05-01"
-  date_end = "2020-06-01"
+  date_end = "2022-06-01"
   description = """The International Society for Music Information Retrieval Conference"""
 
 [[experience]]
