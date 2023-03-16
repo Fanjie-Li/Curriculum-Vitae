@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Learning Analytics
+- Ecudational Data Science
 - Human-Centered Informatics
 - Design Research
 - Affective Computing
@@ -31,13 +32,13 @@ education:
   courses:
   - course: PhD
     institution: New York University
-    year: 2022 - Present
-  - course: M.Sc.LIM (Data Science)
+    year: 
+  - course: M.Sc
     institution: University of Hong Kong
-    year: 2018 - 2020
-  - course: B.Eng., B.Mgt. 
+    year: 2020
+  - course: B.Mgt and B.Eng 
     institution: Sichuan University
-    year: 2014 - 2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
