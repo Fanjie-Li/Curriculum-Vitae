@@ -87,6 +87,8 @@ user_groups:
 - Visitors
 ---
 
-Hello 👋 I am a doctoral student at the NYU Learning Analytics Research Network ([NYU-LEARN](https://steinhardt.nyu.edu/learn)). My work encompasses human-centered design and implementation of learning analytics and the research and development of actionable, conversational analytics interfaces. 
+Hello 👋 I am a doctoral student at the NYU Learning Analytics Research Network ([NYU-LEARN](https://steinhardt.nyu.edu/learn)). 
+
+My work encompasses human-centered design and implementation of learning analytics and the research and development of actionable, conversational analytics interfaces. 
 
 Before joining NYU-LEARN, I worked as a research assistant at the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/), with a focus on the R&D of user-centered, context-aware music recommenders through physiological sensing, music (audio) processing, and UX research.
