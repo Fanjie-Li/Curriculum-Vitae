@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "LAK 2023"
   company_url = ""
   location = ""
-  date_start = "2022-09-12"
-  date_end = "2022-12-31"
+  date_start = "2022-10-11"
+  date_end = "2022-10-31"
   description = """The International Learning Analytics and Knowledge Conference"""
 
 [[experience]]
