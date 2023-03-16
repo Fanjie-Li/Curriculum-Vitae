@@ -87,7 +87,7 @@ user_groups:
 - Visitors
 ---
 
-Hello 👋 I am a doctoral student at the NYU Learning Analytics Research Network ([NYU-LEARN](https://steinhardt.nyu.edu/learn)). 
+Hello 👋 I am a PhD student at NYU Steinhardt's [ECT](https://steinhardt.nyu.edu/programs/educational-communication-and-technology) Program, and a doctoral researcher at the NYU Learning Analytics Research Network ([NYU-LEARN](https://steinhardt.nyu.edu/learn)). 
 
 My work encompasses human-centered design and implementation of learning analytics and the research and development of actionable, conversational analytics interfaces. 
 
