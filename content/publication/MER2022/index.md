@@ -8,7 +8,7 @@ date: "2022-09-18T00:00:00Z"
 doi: "https://doi.org/10.3390/app12189354"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-09-18T00:00:00Z"
+publishDate: "2021-09-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,23 +22,28 @@ publication_short: In *Applied Sciences*
 
 abstract: The subjectivity of listeners’ emotional responses to music is at the crux of optimizing emotion-aware music recommendation. To address this challenge, we constructed a new multimodal dataset (“HKU956”) with aligned peripheral physiological signals (i.e., heart rate, skin conductance, blood volume pulse, skin temperature) and self-reported emotion collected from 30 participants, as well as original audio of 956 music pieces listened to by the participants. A comprehensive set of features was extracted from physiological signals using methods in physiological computing. This study then compared performances of three feature sets (i.e., acoustic, physiological, and combined) on the task of classifying music-induced emotion. Moreover, the classifiers were also trained on subgroups of users with different Big-Five personality traits for further customized modeling. The results reveal that (1) physiological features contribute to improving performance on valence classification with statistical significance; (2) classification models built for users in different personality groups could sometimes further improve arousal prediction; and (3) the multimodal classifier outperformed single-modality ones on valence classification for most user groups. This study contributes to designing music retrieval systems which incorporate user physiological data and model listeners’ emotional responses to music in a customized manner.
 
+
 # Summary. An optional shortened abstract.
-summary: *Applied Sciences*, 12(18), 9354
+summary: _Applied Sciences_, 12(18), 9354.
 
 tags:
-- Music emotion recognition
+- Multimodal recognition
 - Music retrieval
 - Physiological measures
 - Sound and music computing
+- Music emotion recognition
 featured: false
 
 links:
-# url_pdf: 
+# - name: Slide
+#   url: media/LAK21/slide.pdf
+url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
-url_project: 'project/music-emotion-recognition/'
-# url_slides: ''
-# url_source: 'https://ismir.net/conferences/ismir2018.html'
+# url_poster: ''
+url_project: ''
+url_slides: ''
+# url_source: '#'
 # url_video: '#'
 
 # Featured image
@@ -53,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: 
 - music-emotion-recognition
 
 # Slides (optional).
