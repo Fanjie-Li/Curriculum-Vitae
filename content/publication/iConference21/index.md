@@ -30,8 +30,7 @@ tags:
 - Data science education
 - Interdisciplinarity
 - Curriculum design
-- Undergraduate
-featured: true
+featured: false
 
 links:
 - name: Slide
