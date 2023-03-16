@@ -1,5 +1,5 @@
 ---
-title: "	Studying with Learners’ Own Music: Preliminary Findings on Concentration and Task Load"
+title: "Studying with Learners’ Own Music: Preliminary Findings on Concentration and Task Load"
 authors:
 - admin
 - Zuo Wang
