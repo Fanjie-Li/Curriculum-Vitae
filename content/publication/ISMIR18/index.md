@@ -30,7 +30,7 @@ tags:
 - Music-induced emotion
 - Physiological signals
 - User experiment
-featured: true
+featured: false
 
 links:
 - name: ISMIR
