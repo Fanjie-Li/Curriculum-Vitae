@@ -28,10 +28,10 @@ summary: In Proceedings of the 10th International Conference on Learning Analyti
 tags:
 - Background music
 - Learning engagement
-- Learning performance
+- Perceived distraction
 - Naturalistic setting
 - Music information retrieval
-featured: true
+featured: false
 
 links:
 # - name: Slide
