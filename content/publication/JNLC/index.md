@@ -71,5 +71,5 @@ slides: example
 ---
 
 {{% callout note %}}
-This paper was reprinted by the Information Center for Social Science of RUC and [Chinese Social Sciences Net](http://ex.cssn.cn/glx_tsqbx/201811/t20181122_4780166.shtml), and currently has [22 citations](https://oversea.cnki.net/kcms/detail/search.aspx?sfield=cite&code=BJJG201706003&dbcode=CJFD&sKey=Deep+Reading%3a+Controversy+and+Reconsideration) (including journal articles and dissertations).
+This paper was reprinted by the Information Center for Social Science of RUC and [Chinese Social Sciences Net](http://ex.cssn.cn/glx_tsqbx/201811/t20181122_4780166.shtml). [Citations](https://oversea.cnki.net/kcms/detail/search.aspx?sfield=cite&code=BJJG201706003&dbcode=CJFD&sKey=Deep+Reading%3a+Controversy+and+Reconsideration)
 {{% /callout %}}
