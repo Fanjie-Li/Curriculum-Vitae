@@ -24,7 +24,7 @@ interests:
 - Learning Analytics
 - Ecudational Data Science
 - Human-Centered Informatics
-- Design Research
+- Design Thinking
 - Affective Computing
 
 
