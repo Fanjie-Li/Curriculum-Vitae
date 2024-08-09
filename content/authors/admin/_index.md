@@ -57,7 +57,7 @@ social:
   link: https://www.linkedin.com/in/fanjie-li-216bb3156/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Fx1PA6oAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=Q2UMreIAAAAJ&hl=en
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0001-7016-6354/print
