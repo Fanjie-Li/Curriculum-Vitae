@@ -1,15 +1,15 @@
 ---
-title: "Studying with Learners’ Own Music: Preliminary Findings on Concentration and Task Load"
+title: "When Can We Trust AI Coding of Student-Generated Text? A Committee-Based Approach to Diagnosing Agreement and Uncertainty at Scale"
 authors:
 - admin
-- Zuo Wang
-- Jeremy Tzi Dong Ng
-- Xiao Hu
-date: "2021-04-11T00:00:00Z"
-doi: "https://doi.org/10.1145/3448139.3448206"
+- Madison Lee Mason
+- Daniel T. Levin
+- Alyssa Friend Wise
+date: "2026-06-27T00:00:00Z"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-13T00:00:00Z"
+publishDate: "2020-12-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,34 +18,31 @@ publishDate: "2021-01-13T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK 2021)*
-publication_short: In *LAK 2021*
+publication: In *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*
+publication_short: In *AIED 2026*
 
-abstract: Through profiling learners’ music usage in everyday learning settings, and depicting their learning experience when studying with a music app powered by a large-scale and real-world music library, this study revealed preliminary observations on how background music impacts learning under various task load, and manifested intriguing patterns of learners’ music usage and music preference in various task load conditions. Specifically, we piloted a three-day field experiment in students’ everyday learning environment. During the experiment, participants performed learning tasks with music in the background and completed a set of online surveys before and after each learning session. Our results suggested that learners’ self-selected, real-life background music could enhance their learning effectiveness, while the beneficial effect of background music was more apparent when the learning task was less mentally or temporally demanding. Towards a closer look at the characteristics of preferable music pieces under various task load conditions, our findings showed that music preferred by participants under high versus low temporal demand differs in a number of characteristics, including speechiness, acousticness, danceability, and energy. This study further reveals the effect of background music on learning under various task load levels and provides implications for context-aware background music selection when designing musically enriched learning environments.
-
+abstract: This paper operationalizes a committee-based performance diagnostic framework that combines inter-model agreement, consensus entropy, and borderline rate to support interpretable monitoring of AI coding of student text on unlabeled data. In a pilot application to nursing simulation reflections, these complementary metrics revealed distinct ensemble patterns, including stable consensus and divergence between agreement and decisiveness. The results illustrate how committee diagnostics can support ongoing oversight of AI coding as systems encounter new learners, contexts, and language use at scale.
 
 # Summary. An optional shortened abstract.
-summary: In Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK 2021).
+summary: In Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026).
 
 tags:
-- Background music
-- Task load
-- Learning experience
-- Field experiment
-- Learning environment
+- Automated Coding
+- LLMs
+- Uncertainty Quantification
 featured: false
 
 links:
-- name: Full Article
-  url: https://www.solaresearch.org/lak_toc/lak21/
-- name: Slide
-  url: media/LAK21/slide.pdf
-url_pdf: 
+# - name: Slide
+#   url: media/iConference21/iConf_DataSciEd.pdf
+# - name: iConference
+#   url: https://ischools.org/iConference-2021-Summary
+url_pdf: media/Fulltext/AIED2026.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: ''
-url_project: ''
-url_slides: ''
+# url_project: 'project/data-science-education/'
+# url_slides: ''
 # url_source: '#'
 # url_video: '#'
 
@@ -61,8 +58,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- music-learning-naturalistic
+projects: []
+# - data-science-education
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -71,5 +68,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-
