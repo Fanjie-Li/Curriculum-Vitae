@@ -18,10 +18,10 @@ publishDate: "2020-12-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *LAK26 The Second International Workshop on Hybrid Intelligence - Human-AI Collaboration and Learning*
+publication: "In *LAK26 The Second International Workshop on Hybrid Intelligence Human-AI Collaboration and Learning*"
 publication_short: In *LAK26 Hybrid Intelligence Workshop*
 
-abstract: 
+abstract: "Reasoning-Enhanced Large Language Models (RE-LLMs) enable new forms of human-AI collaboration in coding of student text that allows us to code better, not just faster. This paper introduces CLARIFY, a toolset and workflow to systematically elicit, quantify, and interpret LLM uncertainty during coding as a diagnostic resource for identifying and resolving codebook ambiguities. CLARIFY employs: (1) guided chain-of-thought for uncertainty flagging, (2) RE-LLM ensemble for committee-based uncertainty estimation, (3) consensus entropy calculation to prioritize high-uncertainty cases for expert review, and (4) a formalized process for iterative codebook and ground truth refinement. Initial application of CLARIFY is demonstrated through pilot analysis of nursing students’ post-simulation reflections, tracing the active learning trajectory of a single code to show how it led to meaningful codebook clarifications and yielded improved performance on both training and held-out test sets."
 
 # Summary. An optional shortened abstract.
 summary: LAK26 The Second International Workshop on Hybrid Intelligence: Human-AI Collaboration and Learning.
