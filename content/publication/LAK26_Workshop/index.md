@@ -37,8 +37,8 @@ tags:
 featured: false
 
 links:
-# - name: Slide
-#   url: media/iConference21/iConf_DataSciEd.pdf
+- name: Slide
+  url: media/Fulltext/LAK26_workshop.pdf
 # - name: iConference
 #   url: https://ischools.org/iConference-2021-Summary
 url_pdf: media/Fulltext/LAK26_Hybrid_Intelligence_Workshop.pdf
