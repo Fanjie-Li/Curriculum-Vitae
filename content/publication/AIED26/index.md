@@ -33,8 +33,8 @@ tags:
 featured: false
 
 links:
-# - name: Slide
-#   url: media/iConference21/iConf_DataSciEd.pdf
+- name: Slide
+  url: media/AIED26/AIED26_slide.pdf
 # - name: iConference
 #   url: https://ischools.org/iConference-2021-Summary
 url_pdf: media/Fulltext/AIED2026.pdf
